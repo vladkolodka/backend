@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Product>Menchul Base Library</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Scrutor" Version="3.3.0" />
+  </ItemGroup>
+</Project>

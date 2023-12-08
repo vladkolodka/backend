@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Product>Menchul Base Library</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.1.0"/>
+    <PackageReference Include="Open.Serialization.Json.Newtonsoft" Version="2.3.1"/>
+    <PackageReference Include="Convey.CQRS.Commands" Version="0.5.*"/>
+    <PackageReference Include="Convey.Logging" Version="0.5.*"/>
+    <ProjectReference Include="..\Menchul.Convey\Menchul.Convey.csproj"/>
+    <ProjectReference Include="..\Menchul.Core\Menchul.Core.csproj"/>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Menchul.Base\Menchul.Base.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1877 @@
+﻿[
+  {
+    "Alpha3": "ALL",
+    "Exponent": 2,
+    "Symbol": "L",
+    "Code": 8,
+    "Name": {
+      "en": "Albanian lek",
+      "pl": "Lek (waluta)",
+      "ru": "Албанский лек",
+      "uk": "Албанський лек"
+    }
+  },
+  {
+    "Alpha3": "DZD",
+    "Exponent": 2,
+    "Symbol": "دج",
+    "Code": 12,
+    "Name": {
+      "en": "Algerian dinar",
+      "pl": "Dinar algierski",
+      "ru": "Алжирский динар",
+      "uk": "Алжирський динар"
+    }
+  },
+  {
+    "Alpha3": "ARS",
+    "Exponent": 2,
+    "Symbol": "$",
+    "Code": 32,
+    "Name": {
+      "en": "Argentine peso",
+      "pl": "Peso argentyńskie",
+      "ru": "Аргентинское песо",
+      "uk": "Аргентинський песо"
+    }
+  },
+  {
+    "Alpha3": "AUD",
+    "Exponent": 2,
+    "Symbol": "AU$",
+    "Code": 36,
+    "Name": {
+      "en": "Australian dollar",
+      "pl": "Dolar australijski",
+      "ru": "Австралийский доллар",
+      "uk": "Австралійський долар"
+    }
+  },
+  {
+    "Alpha3": "BSD",
+    "Exponent": 2,
+    "Symbol": "B$",
+    "Code": 44,
+    "Name": {
+      "en": "Bahamian dollar",
+      "pl": "Dolar bahamski",
+      "ru": "Багамский доллар",
+      "uk": "Багамський долар"
+    }
+  },
+  {
+    "Alpha3": "BHD",
+    "Exponent": 3,
+    "Symbol": ".د.ب",
+    "Code": 48,
+    "Name": {
+      "en": "Bahraini dinar",
+      "pl": "Dinar bahrajski",
+      "ru": "Бахрейнский динар",
+      "uk": "Бахрейнський динар"
+    }
+  },
+  {
+    "Alpha3": "BDT",
+    "Exponent": 2,
+    "Symbol": "৳",
+    "Code": 50,
+    "Name": {
+      "en": "Bangladeshi taka",
+      "pl": "Taka (waluta)",
+      "ru": "Бангладешская така",
+      "uk": "Бангладеська така"
+    }
+  },
+  {
+    "Alpha3": "AMD",
+    "Exponent": 2,
+    "Symbol": "֏",
+    "Code": 51,
+    "Name": {
+      "en": "Armenian dram",
+      "pl": "Dram",
+      "ru": "Армянский драм",
+      "uk": "Вірменський драм"
+    }
+  },
+  {
+    "Alpha3": "BBD",
+    "Exponent": 2,
+    "Symbol": "BBD$",
+    "Code": 52,
+    "Name": {
+      "en": "Barbados dollar",
+      "pl": "Dolar barbadoski",
+      "ru": "Барбадосский доллар",
+      "uk": "Барбадоський долар"
+    }
+  },
+  {
+    "Alpha3": "BMD",
+    "Exponent": 2,
+    "Symbol": "BD$",
+    "Code": 60,
+    "Name": {
+      "en": "Bermudian dollar",
+      "pl": "Dolar bermudzki",
+      "ru": "Бермудский доллар",
+      "uk": "Бермудський долар"
+    }
+  },
+  {
+    "Alpha3": "BTN",
+    "Exponent": 2,
+    "Symbol": "Nu.",
+    "Code": 64,
+    "Name": {
+      "en": "Bhutanese ngultrum",
+      "pl": "Ngultrum",
+      "ru": "Нгултрум",
+      "uk": "Нгултрум"
+    }
+  },
+  {
+    "Alpha3": "BOB",
+    "Exponent": 2,
+    "Symbol": "Bs",
+    "Code": 68,
+    "Name": {
+      "en": "Boliviano",
+      "pl": "Boliviano",
+      "ru": "Боливиано",
+      "uk": "Болівійський болівіано"
+    }
+  },
+  {
+    "Alpha3": "BWP",
+    "Exponent": 2,
+    "Symbol": "P",
+    "Code": 72,
+    "Name": {
+      "en": "Botswana pula",
+      "pl": "Pula (waluta)",
+      "ru": "Ботсванская пула",
+      "uk": "Ботсванська пула"
+    }
+  },
+  {
+    "Alpha3": "BZD",
+    "Exponent": 2,
+    "Symbol": "BZ$",
+    "Code": 84,
+    "Name": {
+      "en": "Belize dollar",
+      "pl": "Dolar belizeński",
+      "ru": "Белизский доллар",
+      "uk": "Белізький долар"
+    }
+  },
+  {
+    "Alpha3": "SBD",
+    "Exponent": 2,
+    "Symbol": "SI$",
+    "Code": 90,
+    "Name": {
+      "en": "Solomon Islands dollar",
+      "pl": "Dolar Wysp Salomona",
+      "ru": "Доллар Соломоновых Островов",
+      "uk": "Долар Соломонових Островів"
+    }
+  },
+  {
+    "Alpha3": "BND",
+    "Exponent": 2,
+    "Symbol": "B$",
+    "Code": 96,
+    "Name": {
+      "en": "Brunei dollar",
+      "pl": "Dolar brunejski",
+      "ru": "Брунейский доллар",
+      "uk": "Брунейський долар"
+    }
+  },
+  {
+    "Alpha3": "MMK",
+    "Exponent": 2,
+    "Symbol": "K",
+    "Code": 104,
+    "Name": {
+      "en": "Myanmar kyat",
+      "pl": "Kiat",
+      "ru": "Кьят",
+      "uk": "М&#039;янмський к&#039;ят"
+    }
+  },
+  {
+    "Alpha3": "BIF",
+    "Exponent": 0,
+    "Symbol": "FBu",
+    "Code": 108,
+    "Name": {
+      "en": "Burundian franc",
+      "pl": "Frank burundyjski",
+      "ru": "Бурундийский франк",
+      "uk": "Бурундійський франк"
+    }
+  },
+  {
+    "Alpha3": "KHR",
+    "Exponent": 2,
+    "Symbol": "៛",
+    "Code": 116,
+    "Name": {
+      "en": "Cambodian riel",
+      "pl": "Riel kambodżański",
+      "ru": "Риель",
+      "uk": "Камбоджійський рієль"
+    }
+  },
+  {
+    "Alpha3": "CAD",
+    "Exponent": 2,
+    "Symbol": "CA$",
+    "Code": 124,
+    "Name": {
+      "en": "Canadian dollar",
+      "pl": "Dolar kanadyjski",
+      "ru": "Канадский доллар",
+      "uk": "Канадський долар"
+    }
+  },
+  {
+    "Alpha3": "CVE",
+    "Exponent": 2,
+    "Code": 132,
+    "Name": {
+      "en": "Cape Verdean escudo",
+      "pl": "Escudo Zielonego Przylądka",
+      "ru": "Эскудо Кабо-Верде",
+      "uk": "Ескудо Кабо-Верде"
+    }
+  },
+  {
+    "Alpha3": "KYD",
+    "Exponent": 2,
+    "Symbol": "CI$",
+    "Code": 136,
+    "Name": {
+      "en": "Cayman Islands dollar",
+      "pl": "Dolar kajmański",
+      "ru": "Доллар Каймановых Островов",
+      "uk": "Долар Кайманових Островів"
+    }
+  },
+  {
+    "Alpha3": "LKR",
+    "Exponent": 2,
+    "Symbol": "Rs",
+    "Code": 144,
+    "Name": {
+      "en": "Sri Lankan rupee",
+      "pl": "Rupia lankijska",
+      "ru": "Шри-ланкийская рупия",
+      "uk": "Рупія Шрі-Ланки"
+    }
+  },
+  {
+    "Alpha3": "CLP",
+    "Exponent": 0,
+    "Symbol": "CLP$",
+    "Code": 152,
+    "Name": {
+      "en": "Chilean peso",
+      "pl": "Peso chilijskie",
+      "ru": "Чилийское песо",
+      "uk": "Чилійський песо"
+    }
+  },
+  {
+    "Alpha3": "CNY",
+    "Exponent": 2,
+    "Symbol": "元",
+    "Code": 156,
+    "Name": {
+      "en": "Chinese yuan[8]",
+      "pl": "Renminbi",
+      "ru": "Китайский юань",
+      "uk": "Юань Женьміньбі"
+    }
+  },
+  {
+    "Alpha3": "COP",
+    "Exponent": 2,
+    "Symbol": "COL$",
+    "Code": 170,
+    "Name": {
+      "en": "Colombian peso",
+      "pl": "Peso kolumbijskie",
+      "ru": "Колумбийское песо",
+      "uk": "Колумбійський песо"
+    }
+  },
+  {
+    "Alpha3": "KMF",
+    "Exponent": 0,
+    "Symbol": "CF",
+    "Code": 174,
+    "Name": {
+      "en": "Comoro franc",
+      "pl": "Frank Komorów",
+      "ru": "Франк Комор",
+      "uk": "Коморський франк"
+    }
+  },
+  {
+    "Alpha3": "CRC",
+    "Exponent": 2,
+    "Symbol": "₡",
+    "Code": 188,
+    "Name": {
+      "en": "Costa Rican colon",
+      "pl": "Colon kostarykański",
+      "ru": "Коста-риканский колон",
+      "uk": "Костариканський колон"
+    }
+  },
+  {
+    "Alpha3": "HRK",
+    "Exponent": 2,
+    "Symbol": "kn",
+    "Code": 191,
+    "Name": {
+      "en": "Croatian kuna",
+      "pl": "Kuna (waluta)",
+      "ru": "Хорватская куна",
+      "uk": "Хорватська куна"
+    }
+  },
+  {
+    "Alpha3": "CUP",
+    "Exponent": 2,
+    "Symbol": "₱",
+    "Code": 192,
+    "Name": {
+      "en": "Cuban peso",
+      "pl": "Peso kubańskie",
+      "ru": "Кубинское песо",
+      "uk": "Кубинський песо"
+    }
+  },
+  {
+    "Alpha3": "CZK",
+    "Exponent": 2,
+    "Symbol": "Kč",
+    "Code": 203,
+    "Name": {
+      "en": "Czech koruna",
+      "pl": "Korona czeska",
+      "ru": "Чешская крона",
+      "uk": "Чеська крона"
+    }
+  },
+  {
+    "Alpha3": "DKK",
+    "Exponent": 2,
+    "Symbol": "kr.",
+    "Code": 208,
+    "Name": {
+      "en": "Danish krone",
+      "pl": "Korona duńska",
+      "ru": "Датская крона",
+      "uk": "Данська крона"
+    }
+  },
+  {
+    "Alpha3": "DOP",
+    "Exponent": 2,
+    "Symbol": "RD$",
+    "Code": 214,
+    "Name": {
+      "en": "Dominican peso",
+      "pl": "Peso dominikańskie",
+      "ru": "Доминиканское песо",
+      "uk": "Домініканський песо"
+    }
+  },
+  {
+    "Alpha3": "SVC",
+    "Exponent": 2,
+    "Symbol": "₡",
+    "Code": 222,
+    "Name": {
+      "en": "Salvadoran colón",
+      "pl": "Colón salwadorski",
+      "ru": "Сальвадорский колон",
+      "uk": "Сальвадорський колон"
+    }
+  },
+  {
+    "Alpha3": "ETB",
+    "Exponent": 2,
+    "Symbol": "Br",
+    "Code": 230,
+    "Name": {
+      "en": "Ethiopian birr",
+      "pl": "Birr (waluta)",
+      "ru": "Эфиопский быр",
+      "uk": "Ефіопський бир"
+    }
+  },
+  {
+    "Alpha3": "ERN",
+    "Exponent": 2,
+    "Symbol": "Nkf",
+    "Code": 232,
+    "Name": {
+      "en": "Eritrean nakfa",
+      "pl": "Nakfa (waluta)",
+      "ru": "Эритрейская накфа",
+      "uk": "Еритрейська накфа"
+    }
+  },
+  {
+    "Alpha3": "FKP",
+    "Exponent": 2,
+    "Symbol": "£",
+    "Code": 238,
+    "Name": {
+      "en": "Falkland Islands pound",
+      "pl": "Funt falklandzki",
+      "ru": "Фунт Фолклендских островов",
+      "uk": "Фолклендський фунт"
+    }
+  },
+  {
+    "Alpha3": "FJD",
+    "Exponent": 2,
+    "Symbol": "FJ",
+    "Code": 242,
+    "Name": {
+      "en": "Fiji dollar",
+      "pl": "Dolar Fidżi",
+      "ru": "Доллар Фиджи",
+      "uk": "Фіджійський долар"
+    }
+  },
+  {
+    "Alpha3": "DJF",
+    "Exponent": 0,
+    "Symbol": "Fdj",
+    "Code": 262,
+    "Name": {
+      "en": "Djiboutian franc",
+      "pl": "Frank Dżibuti",
+      "ru": "Франк Джибути",
+      "uk": "Франк Джибуті"
+    }
+  },
+  {
+    "Alpha3": "GMD",
+    "Exponent": 2,
+    "Symbol": "D",
+    "Code": 270,
+    "Name": {
+      "en": "Gambian dalasi",
+      "pl": "Dalasi",
+      "ru": "Даласи",
+      "uk": "Гамбійський даласі"
+    }
+  },
+  {
+    "Alpha3": "GIP",
+    "Exponent": 2,
+    "Symbol": "£",
+    "Code": 292,
+    "Name": {
+      "en": "Gibraltar pound",
+      "pl": "Funt gibraltarski",
+      "ru": "Гибралтарский фунт",
+      "uk": "Гібралтарський фунт"
+    }
+  },
+  {
+    "Alpha3": "GTQ",
+    "Exponent": 2,
+    "Symbol": "Q",
+    "Code": 320,
+    "Name": {
+      "en": "Guatemalan quetzal",
+      "pl": "Quetzal",
+      "ru": "Гватемальский кетсаль",
+      "uk": "Гватемальський кетсаль"
+    }
+  },
+  {
+    "Alpha3": "GNF",
+    "Exponent": 0,
+    "Symbol": "FG",
+    "Code": 324,
+    "Name": {
+      "en": "Guinean franc",
+      "pl": "Frank gwinejski",
+      "ru": "Гвинейский франк",
+      "uk": "Гвінейський франк"
+    }
+  },
+  {
+    "Alpha3": "GYD",
+    "Exponent": 2,
+    "Symbol": "GY$",
+    "Code": 328,
+    "Name": {
+      "en": "Guyanese dollar",
+      "pl": "Dolar gujański",
+      "ru": "Гайанский доллар",
+      "uk": "Гаянський долар"
+    }
+  },
+  {
+    "Alpha3": "HTG",
+    "Exponent": 2,
+    "Symbol": "G",
+    "Code": 332,
+    "Name": {
+      "en": "Haitian gourde",
+      "pl": "Gourde",
+      "ru": "Гаитянский гурд",
+      "uk": "Гаїтянський гурд"
+    }
+  },
+  {
+    "Alpha3": "HNL",
+    "Exponent": 2,
+    "Symbol": "L",
+    "Code": 340,
+    "Name": {
+      "en": "Honduran lempira",
+      "pl": "Lempira (waluta)",
+      "ru": "Гондурасская лемпира",
+      "uk": "Гондураська лемпіра"
+    }
+  },
+  {
+    "Alpha3": "HKD",
+    "Exponent": 2,
+    "Symbol": "HK$",
+    "Code": 344,
+    "Name": {
+      "en": "Hong Kong dollar",
+      "pl": "Dolar Hongkongu",
+      "ru": "Гонконгский доллар",
+      "uk": "Гонконгський долар"
+    }
+  },
+  {
+    "Alpha3": "HUF",
+    "Exponent": 2,
+    "Symbol": "Ft",
+    "Code": 348,
+    "Name": {
+      "en": "Hungarian forint",
+      "pl": "Forint",
+      "ru": "Форинт",
+      "uk": "Угорський форинт"
+    }
+  },
+  {
+    "Alpha3": "ISK",
+    "Exponent": 0,
+    "Symbol": "kr",
+    "Code": 352,
+    "Name": {
+      "en": "Icelandic króna",
+      "pl": "Korona islandzka",
+      "ru": "Исландская крона",
+      "uk": "Ісландська крона"
+    }
+  },
+  {
+    "Alpha3": "INR",
+    "Exponent": 2,
+    "Symbol": "₹",
+    "Code": 356,
+    "Name": {
+      "en": "Indian rupee",
+      "pl": "Rupia indyjska",
+      "ru": "Индийская рупия",
+      "uk": "Індійська рупія"
+    }
+  },
+  {
+    "Alpha3": "IDR",
+    "Exponent": 2,
+    "Symbol": "Rp",
+    "Code": 360,
+    "Name": {
+      "en": "Indonesian rupiah",
+      "pl": "Rupia indonezyjska",
+      "ru": "Индонезийская рупия",
+      "uk": "Індонезійська рупія"
+    }
+  },
+  {
+    "Alpha3": "IRR",
+    "Exponent": 2,
+    "Symbol": "﷼",
+    "Code": 364,
+    "Name": {
+      "en": "Iranian rial",
+      "pl": "Rial irański",
+      "ru": "Иранский риал",
+      "uk": "Іранський ріал"
+    }
+  },
+  {
+    "Alpha3": "IQD",
+    "Exponent": 3,
+    "Symbol": "د.ع",
+    "Code": 368,
+    "Name": {
+      "en": "Iraqi dinar",
+      "pl": "Dinar iracki",
+      "ru": "Иракский динар",
+      "uk": "Іракський динар"
+    }
+  },
+  {
+    "Alpha3": "ILS",
+    "Exponent": 2,
+    "Symbol": "₪",
+    "Code": 376,
+    "Name": {
+      "en": "Israeli new shekel",
+      "pl": "Nowy izraelski szekel",
+      "ru": "Новый израильский шекель",
+      "uk": "Ізраїльський новий шекель"
+    }
+  },
+  {
+    "Alpha3": "JMD",
+    "Exponent": 2,
+    "Symbol": "J$",
+    "Code": 388,
+    "Name": {
+      "en": "Jamaican dollar",
+      "pl": "Dolar jamajski",
+      "ru": "Ямайский доллар",
+      "uk": "Ямайський долар"
+    }
+  },
+  {
+    "Alpha3": "JPY",
+    "Exponent": 0,
+    "Symbol": "¥",
+    "Code": 392,
+    "Name": {
+      "en": "Japanese yen",
+      "pl": "Jen",
+      "ru": "Иена",
+      "uk": "Єна"
+    }
+  },
+  {
+    "Alpha3": "KZT",
+    "Exponent": 2,
+    "Symbol": "₸",
+    "Code": 398,
+    "Name": {
+      "en": "Kazakhstani tenge",
+      "pl": "Tenge",
+      "ru": "Казахстанский тенге",
+      "uk": "Казахстанський теньге"
+    }
+  },
+  {
+    "Alpha3": "JOD",
+    "Exponent": 3,
+    "Symbol": "د.أ",
+    "Code": 400,
+    "Name": {
+      "en": "Jordanian dinar",
+      "pl": "Dinar jordański",
+      "ru": "Иорданский динар",
+      "uk": "Йорданський динар"
+    }
+  },
+  {
+    "Alpha3": "KES",
+    "Exponent": 2,
+    "Symbol": "KSh",
+    "Code": 404,
+    "Name": {
+      "en": "Kenyan shilling",
+      "pl": "Szyling kenijski",
+      "ru": "Кенийский шиллинг",
+      "uk": "Кенійський шилінг"
+    }
+  },
+  {
+    "Alpha3": "KPW",
+    "Exponent": 2,
+    "Symbol": "₩",
+    "Code": 408,
+    "Name": {
+      "en": "North Korean won",
+      "pl": "Won północnokoreański",
+      "ru": "Северокорейская вона",
+      "uk": "Північнокорейська вона"
+    }
+  },
+  {
+    "Alpha3": "KRW",
+    "Exponent": 0,
+    "Symbol": "₩",
+    "Code": 410,
+    "Name": {
+      "en": "South Korean won",
+      "pl": "Won południowokoreański",
+      "ru": "Южнокорейская вона",
+      "uk": "Південнокорейська вона"
+    }
+  },
+  {
+    "Alpha3": "KWD",
+    "Exponent": 3,
+    "Symbol": "د.ك",
+    "Code": 414,
+    "Name": {
+      "en": "Kuwaiti dinar",
+      "pl": "Dinar kuwejcki",
+      "ru": "Кувейтский динар",
+      "uk": "Кувейтський динар"
+    }
+  },
+  {
+    "Alpha3": "KGS",
+    "Exponent": 2,
+    "Code": 417,
+    "Name": {
+      "en": "Kyrgyzstani som",
+      "pl": "Som (waluta)",
+      "ru": "Киргизский сом",
+      "uk": "Киргизький сом"
+    }
+  },
+  {
+    "Alpha3": "LAK",
+    "Exponent": 2,
+    "Symbol": "₭",
+    "Code": 418,
+    "Name": {
+      "en": "Lao kip",
+      "pl": "Kip",
+      "ru": "Лаосский кип",
+      "uk": "Лаоський кіп"
+    }
+  },
+  {
+    "Alpha3": "LBP",
+    "Exponent": 2,
+    "Symbol": "ل.ل.",
+    "Code": 422,
+    "Name": {
+      "en": "Lebanese pound",
+      "pl": "Funt libański",
+      "ru": "Ливанский фунт",
+      "uk": "Ліванський фунт"
+    }
+  },
+  {
+    "Alpha3": "LSL",
+    "Exponent": 2,
+    "Symbol": "L",
+    "Code": 426,
+    "Name": {
+      "en": "Lesotho loti",
+      "pl": "Loti",
+      "ru": "Лоти Лесото",
+      "uk": "Лоті Лесото"
+    }
+  },
+  {
+    "Alpha3": "LRD",
+    "Exponent": 2,
+    "Symbol": "LD$",
+    "Code": 430,
+    "Name": {
+      "en": "Liberian dollar",
+      "pl": "Dolar liberyjski",
+      "ru": "Либерийский доллар",
+      "uk": "Ліберійський долар"
+    }
+  },
+  {
+    "Alpha3": "LYD",
+    "Exponent": 3,
+    "Symbol": "LD",
+    "Code": 434,
+    "Name": {
+      "en": "Libyan dinar",
+      "pl": "Dinar libijski",
+      "ru": "Ливийский динар",
+      "uk": "Лівійський динар"
+    }
+  },
+  {
+    "Alpha3": "MOP",
+    "Exponent": 2,
+    "Symbol": "MOP$",
+    "Code": 446,
+    "Name": {
+      "en": "Macanese pataca",
+      "pl": "Pataca",
+      "ru": "Патака Макао",
+      "uk": "Аоминська патака"
+    }
+  },
+  {
+    "Alpha3": "MWK",
+    "Exponent": 2,
+    "Symbol": "K",
+    "Code": 454,
+    "Name": {
+      "en": "Malawian kwacha",
+      "pl": "Kwacha malawijska",
+      "ru": "Малавийская квача",
+      "uk": "Малавійська квача"
+    }
+  },
+  {
+    "Alpha3": "MYR",
+    "Exponent": 2,
+    "Symbol": "RM",
+    "Code": 458,
+    "Name": {
+      "en": "Malaysian ringgit",
+      "pl": "Ringgit",
+      "ru": "Малайзийский ринггит",
+      "uk": "Малайзійський рингіт"
+    }
+  },
+  {
+    "Alpha3": "MVR",
+    "Exponent": 2,
+    "Symbol": "Rf",
+    "Code": 462,
+    "Name": {
+      "en": "Maldivian rufiyaa",
+      "pl": "Rupia malediwska",
+      "ru": "Мальдивская руфия",
+      "uk": "Мальдівська руфія"
+    }
+  },
+  {
+    "Alpha3": "MUR",
+    "Exponent": 2,
+    "Symbol": "₨",
+    "Code": 480,
+    "Name": {
+      "en": "Mauritian rupee",
+      "pl": "Rupia Mauritiusu",
+      "ru": "Маврикийская рупия",
+      "uk": "Маврикійська рупія"
+    }
+  },
+  {
+    "Alpha3": "MXN",
+    "Exponent": 2,
+    "Symbol": "Mex$",
+    "Code": 484,
+    "Name": {
+      "en": "Mexican peso",
+      "pl": "Peso meksykańskie",
+      "ru": "Мексиканское песо",
+      "uk": "Мексиканський песо"
+    }
+  },
+  {
+    "Alpha3": "MNT",
+    "Exponent": 2,
+    "Symbol": "₮",
+    "Code": 496,
+    "Name": {
+      "en": "Mongolian tögrög",
+      "pl": "Tugrik",
+      "ru": "Тугрик",
+      "uk": "Монгольський тугрик"
+    }
+  },
+  {
+    "Alpha3": "MDL",
+    "Exponent": 2,
+    "Symbol": "L",
+    "Code": 498,
+    "Name": {
+      "en": "Moldovan leu",
+      "pl": "Lej Mołdawii",
+      "ru": "Молдавский лей",
+      "uk": "Молдовський лей"
+    }
+  },
+  {
+    "Alpha3": "MAD",
+    "Exponent": 2,
+    "Symbol": "DH",
+    "Code": 504,
+    "Name": {
+      "en": "Moroccan dirham",
+      "pl": "Dirham marokański",
+      "ru": "Марокканский дирхам",
+      "uk": "Марокканський дирхам"
+    }
+  },
+  {
+    "Alpha3": "OMR",
+    "Exponent": 3,
+    "Symbol": "ر.ع.",
+    "Code": 512,
+    "Name": {
+      "en": "Omani rial",
+      "pl": "Rial omański",
+      "ru": "Оманский риал",
+      "uk": "Оманський ріал"
+    }
+  },
+  {
+    "Alpha3": "NAD",
+    "Exponent": 2,
+    "Symbol": "N$",
+    "Code": 516,
+    "Name": {
+      "en": "Namibian dollar",
+      "pl": "Dolar namibijski",
+      "ru": "Доллар Намибии",
+      "uk": "Намібійський долар"
+    }
+  },
+  {
+    "Alpha3": "NPR",
+    "Exponent": 2,
+    "Symbol": "रु",
+    "Code": 524,
+    "Name": {
+      "en": "Nepalese rupee",
+      "pl": "Rupia nepalska",
+      "ru": "Непальская рупия",
+      "uk": "Непальська рупія"
+    }
+  },
+  {
+    "Alpha3": "ANG",
+    "Exponent": 2,
+    "Symbol": "NAƒ",
+    "Code": 532,
+    "Name": {
+      "en": "Netherlands Antillean guilder",
+      "pl": "Gulden Antyli Holenderskich",
+      "ru": "Нидерландский антильский гульден",
+      "uk": "Нідерландський антильський гульден"
+    }
+  },
+  {
+    "Alpha3": "AWG",
+    "Exponent": 2,
+    "Symbol": "Afl",
+    "Code": 533,
+    "Name": {
+      "en": "Aruban florin",
+      "pl": "Florin arubański",
+      "ru": "Арубанский флорин",
+      "uk": "Арубський флорин"
+    }
+  },
+  {
+    "Alpha3": "VUV",
+    "Exponent": 0,
+    "Symbol": "VT",
+    "Code": 548,
+    "Name": {
+      "en": "Vanuatu vatu",
+      "pl": "Vatu",
+      "ru": "Вату",
+      "uk": "Вануатський вату"
+    }
+  },
+  {
+    "Alpha3": "NZD",
+    "Exponent": 2,
+    "Symbol": "NZ$",
+    "Code": 554,
+    "Name": {
+      "en": "New Zealand dollar",
+      "pl": "Dolar nowozelandzki",
+      "ru": "Новозеландский доллар",
+      "uk": "Новозеландський долар"
+    }
+  },
+  {
+    "Alpha3": "NIO",
+    "Exponent": 2,
+    "Symbol": "C",
+    "Code": 558,
+    "Name": {
+      "en": "Nicaraguan córdoba",
+      "pl": "Cordoba oro",
+      "ru": "Никарагуанская кордоба",
+      "uk": "Нікарагуанська кордоба"
+    }
+  },
+  {
+    "Alpha3": "NGN",
+    "Exponent": 2,
+    "Symbol": "₦",
+    "Code": 566,
+    "Name": {
+      "en": "Nigerian naira",
+      "pl": "Naira",
+      "ru": "Найра",
+      "uk": "Нігерійська найра"
+    }
+  },
+  {
+    "Alpha3": "NOK",
+    "Exponent": 2,
+    "Symbol": "kr",
+    "Code": 578,
+    "Name": {
+      "en": "Norwegian krone",
+      "pl": "Korona norweska",
+      "ru": "Норвежская крона",
+      "uk": "Норвезька крона"
+    }
+  },
+  {
+    "Alpha3": "PKR",
+    "Exponent": 2,
+    "Symbol": "₨",
+    "Code": 586,
+    "Name": {
+      "en": "Pakistani rupee",
+      "pl": "Rupia pakistańska",
+      "ru": "Пакистанская рупия",
+      "uk": "Пакистанська рупія"
+    }
+  },
+  {
+    "Alpha3": "PAB",
+    "Exponent": 2,
+    "Symbol": "B/.",
+    "Code": 590,
+    "Name": {
+      "en": "Panamanian balboa",
+      "pl": "Balboa",
+      "ru": "Панамский бальбоа",
+      "uk": "Панамське бальбоа"
+    }
+  },
+  {
+    "Alpha3": "PGK",
+    "Exponent": 2,
+    "Symbol": "K",
+    "Code": 598,
+    "Name": {
+      "en": "Papua New Guinean kina",
+      "pl": "Kina (waluta)",
+      "ru": "Кина",
+      "uk": "Кіна"
+    }
+  },
+  {
+    "Alpha3": "PYG",
+    "Exponent": 0,
+    "Code": 600,
+    "Name": {
+      "en": "Paraguayan guaraní",
+      "pl": "Guaraní (waluta)",
+      "ru": "Парагвайский гуарани",
+      "uk": "Парагвайський гуарані"
+    }
+  },
+  {
+    "Alpha3": "PEN",
+    "Exponent": 2,
+    "Symbol": "S/",
+    "Code": 604,
+    "Name": {
+      "en": "Peruvian sol",
+      "pl": "Sol (waluta)",
+      "ru": "Перуанский новый соль",
+      "uk": "Перуанський соль"
+    }
+  },
+  {
+    "Alpha3": "PHP",
+    "Exponent": 2,
+    "Symbol": "₱",
+    "Code": 608,
+    "Name": {
+      "en": "Philippine peso[12]",
+      "pl": "Peso filipińskie",
+      "ru": "Филиппинское песо",
+      "uk": "Філіппінський песо"
+    }
+  },
+  {
+    "Alpha3": "QAR",
+    "Exponent": 2,
+    "Symbol": "QR",
+    "Code": 634,
+    "Name": {
+      "en": "Qatari riyal",
+      "pl": "Rial katarski",
+      "ru": "Катарский риал",
+      "uk": "Катарський ріал"
+    }
+  },
+  {
+    "Alpha3": "RUB",
+    "Exponent": 2,
+    "Symbol": "₽",
+    "Code": 643,
+    "Name": {
+      "en": "Russian ruble",
+      "pl": "Rubel rosyjski",
+      "ru": "Российский рубль",
+      "uk": "Російський рубль"
+    }
+  },
+  {
+    "Alpha3": "RWF",
+    "Exponent": 0,
+    "Symbol": "FRw",
+    "Code": 646,
+    "Name": {
+      "en": "Rwandan franc",
+      "pl": "Frank rwandyjski",
+      "ru": "Франк Руанды",
+      "uk": "Руандійський франк"
+    }
+  },
+  {
+    "Alpha3": "SHP",
+    "Exponent": 2,
+    "Symbol": "£",
+    "Code": 654,
+    "Name": {
+      "en": "Saint Helena pound",
+      "pl": "Funt Świętej Heleny",
+      "ru": "Фунт Святой Елены",
+      "uk": "Фунт Святої Єлени"
+    }
+  },
+  {
+    "Alpha3": "SAR",
+    "Exponent": 2,
+    "Symbol": "SAR,",
+    "Code": 682,
+    "Name": {
+      "en": "Saudi riyal",
+      "pl": "Rial saudyjski",
+      "ru": "Саудовский риял",
+      "uk": "Саудівський ріал"
+    }
+  },
+  {
+    "Alpha3": "SCR",
+    "Exponent": 2,
+    "Symbol": "SCR",
+    "Code": 690,
+    "Name": {
+      "en": "Seychelles rupee",
+      "pl": "Rupia seszelska",
+      "ru": "Сейшельская рупия",
+      "uk": "Сейшельська рупія"
+    }
+  },
+  {
+    "Alpha3": "SLL",
+    "Exponent": 2,
+    "Symbol": "Le",
+    "Code": 694,
+    "Name": {
+      "en": "Sierra Leonean leone",
+      "pl": "Leone",
+      "ru": "Леоне (денежная единица)",
+      "uk": "Леоне Сьєрра-Леоне"
+    }
+  },
+  {
+    "Alpha3": "SGD",
+    "Exponent": 2,
+    "Symbol": "S$",
+    "Code": 702,
+    "Name": {
+      "en": "Singapore dollar",
+      "pl": "Dolar singapurski",
+      "ru": "Сингапурский доллар",
+      "uk": "Сінгапурський долар"
+    }
+  },
+  {
+    "Alpha3": "VND",
+    "Exponent": 0,
+    "Symbol": "₫",
+    "Code": 704,
+    "Name": {
+      "en": "Vietnamese đồng",
+      "pl": "Đồng",
+      "ru": "Донг",
+      "uk": "В&#039;єтнамський донг"
+    }
+  },
+  {
+    "Alpha3": "SOS",
+    "Exponent": 2,
+    "Symbol": "Sh.So.",
+    "Code": 706,
+    "Name": {
+      "en": "Somali shilling",
+      "pl": "Szyling somalijski",
+      "ru": "Сомалийский шиллинг",
+      "uk": "Сомалійський шилінг"
+    }
+  },
+  {
+    "Alpha3": "ZAR",
+    "Exponent": 2,
+    "Symbol": "R",
+    "Code": 710,
+    "Name": {
+      "en": "South African rand",
+      "pl": "Rand (waluta)",
+      "ru": "Южноафриканский рэнд",
+      "uk": "Ранд"
+    }
+  },
+  {
+    "Alpha3": "SSP",
+    "Exponent": 2,
+    "Symbol": "SS£",
+    "Code": 728,
+    "Name": {
+      "en": "South Sudanese pound",
+      "pl": "Funt południowosudański",
+      "ru": "Южносуданский фунт",
+      "uk": "Південносуданський фунт"
+    }
+  },
+  {
+    "Alpha3": "SZL",
+    "Exponent": 2,
+    "Symbol": "L",
+    "Code": 748,
+    "Name": {
+      "en": "Swazi lilangeni",
+      "pl": "Lilangeni",
+      "ru": "Лилангени",
+      "uk": "Свазілендський ліланґені"
+    }
+  },
+  {
+    "Alpha3": "SEK",
+    "Exponent": 2,
+    "Symbol": "kr",
+    "Code": 752,
+    "Name": {
+      "en": "Swedish krona/kronor",
+      "pl": "Korona szwedzka",
+      "ru": "Шведская крона",
+      "uk": "Шведська крона"
+    }
+  },
+  {
+    "Alpha3": "CHF",
+    "Exponent": 2,
+    "Code": 756,
+    "Name": {
+      "en": "Swiss franc"
+    }
+  },
+  {
+    "Alpha3": "SYP",
+    "Exponent": 2,
+    "Symbol": "LS",
+    "Code": 760,
+    "Name": {
+      "en": "Syrian pound",
+      "pl": "Funt syryjski",
+      "ru": "Сирийский фунт",
+      "uk": "Сирійський фунт"
+    }
+  },
+  {
+    "Alpha3": "THB",
+    "Exponent": 2,
+    "Symbol": "฿",
+    "Code": 764,
+    "Name": {
+      "en": "Thai baht",
+      "pl": "Bat (waluta)",
+      "ru": "Тайский бат",
+      "uk": "Тайський бат"
+    }
+  },
+  {
+    "Alpha3": "TOP",
+    "Exponent": 2,
+    "Symbol": "T$",
+    "Code": 776,
+    "Name": {
+      "en": "Tongan paʻanga",
+      "pl": "Paʻanga",
+      "ru": "Паанга",
+      "uk": "Тонганська паанга"
+    }
+  },
+  {
+    "Alpha3": "TTD",
+    "Exponent": 2,
+    "Symbol": "TT$",
+    "Code": 780,
+    "Name": {
+      "en": "Trinidad and Tobago dollar",
+      "pl": "Dolar Trynidadu i Tobago",
+      "ru": "Доллар Тринидада и Тобаго",
+      "uk": "Долар Тринідаду і Тобаго"
+    }
+  },
+  {
+    "Alpha3": "AED",
+    "Exponent": 2,
+    "Symbol": "د.إ",
+    "Code": 784,
+    "Name": {
+      "en": "United Arab Emirates dirham",
+      "pl": "Dirham Zjednoczonych Emiratów Arabskich",
+      "ru": "Дирхам ОАЭ",
+      "uk": "Дирхам ОАЕ"
+    }
+  },
+  {
+    "Alpha3": "TND",
+    "Exponent": 3,
+    "Symbol": "د.ت",
+    "Code": 788,
+    "Name": {
+      "en": "Tunisian dinar",
+      "pl": "Dinar tunezyjski",
+      "ru": "Тунисский динар",
+      "uk": "Туніський динар"
+    }
+  },
+  {
+    "Alpha3": "UGX",
+    "Exponent": 0,
+    "Symbol": "USh",
+    "Code": 800,
+    "Name": {
+      "en": "Ugandan shilling",
+      "pl": "Szyling ugandyjski",
+      "ru": "Угандийский шиллинг",
+      "uk": "Угандійський шилінг"
+    }
+  },
+  {
+    "Alpha3": "MKD",
+    "Exponent": 2,
+    "Symbol": "den",
+    "Code": 807,
+    "Name": {
+      "en": "Macedonian denar",
+      "pl": "Denar macedoński",
+      "ru": "Македонский денар",
+      "uk": "Македонський денар"
+    }
+  },
+  {
+    "Alpha3": "EGP",
+    "Exponent": 2,
+    "Symbol": "£",
+    "Code": 818,
+    "Name": {
+      "en": "Egyptian pound",
+      "pl": "Funt egipski",
+      "ru": "Египетский фунт",
+      "uk": "Єгипетський фунт"
+    }
+  },
+  {
+    "Alpha3": "GBP",
+    "Exponent": 2,
+    "Symbol": "£",
+    "Code": 826,
+    "Name": {
+      "en": "Pound sterling",
+      "pl": "Funt szterling",
+      "ru": "Фунт стерлингов",
+      "uk": "Фунт стерлінгів"
+    }
+  },
+  {
+    "Alpha3": "TZS",
+    "Exponent": 2,
+    "Symbol": "TSh",
+    "Code": 834,
+    "Name": {
+      "en": "Tanzanian shilling",
+      "pl": "Szyling tanzański",
+      "ru": "Танзанийский шиллинг",
+      "uk": "Танзанійський шилінг"
+    }
+  },
+  {
+    "Alpha3": "USD",
+    "Exponent": 2,
+    "Symbol": "$",
+    "Code": 840,
+    "Name": {
+      "en": "United States dollar",
+      "pl": "Dolar amerykański",
+      "ru": "Доллар США",
+      "uk": "Долар США"
+    }
+  },
+  {
+    "Alpha3": "UYU",
+    "Exponent": 2,
+    "Symbol": "$U",
+    "Code": 858,
+    "Name": {
+      "en": "Uruguayan peso",
+      "pl": "Peso urugwajskie",
+      "ru": "Уругвайское песо",
+      "uk": "Уругвайський песо"
+    }
+  },
+  {
+    "Alpha3": "UZS",
+    "Exponent": 2,
+    "Symbol": "сум",
+    "Code": 860,
+    "Name": {
+      "en": "Uzbekistan som",
+      "pl": "Sum (waluta)",
+      "ru": "Узбекский сум",
+      "uk": "Узбецький сум"
+    }
+  },
+  {
+    "Alpha3": "WST",
+    "Exponent": 2,
+    "Symbol": "tālā",
+    "Code": 882,
+    "Name": {
+      "en": "Samoan tala",
+      "pl": "Tala (waluta)",
+      "ru": "Самоанская тала",
+      "uk": "Самоанська тала"
+    }
+  },
+  {
+    "Alpha3": "YER",
+    "Exponent": 2,
+    "Symbol": "ر.ي",
+    "Code": 886,
+    "Name": {
+      "en": "Yemeni rial",
+      "pl": "Rial jemeński",
+      "ru": "Йеменский риал",
+      "uk": "Єменський ріал"
+    }
+  },
+  {
+    "Alpha3": "TWD",
+    "Exponent": 2,
+    "Symbol": "NT$,",
+    "Code": 901,
+    "Name": {
+      "en": "New Taiwan dollar",
+      "pl": "Dolar tajwański",
+      "ru": "Новый тайваньский доллар",
+      "uk": "Новий тайванський долар"
+    }
+  },
+  {
+    "Alpha3": "VES",
+    "Exponent": 2,
+    "Symbol": "Bs.S",
+    "Code": 928,
+    "Name": {
+      "en": "Venezuelan bolívar soberano[12]",
+      "pl": "Boliwar (waluta)",
+      "ru": "Венесуэльский боливар",
+      "uk": "Венесуельський болівар"
+    }
+  },
+  {
+    "Alpha3": "MRU",
+    "Exponent": 2,
+    "Symbol": "UM",
+    "Code": 929,
+    "Name": {
+      "en": "Mauritanian ouguiya",
+      "pl": "Ugija",
+      "ru": "Угия",
+      "uk": "Мавританська угія"
+    }
+  },
+  {
+    "Alpha3": "STN",
+    "Exponent": 2,
+    "Symbol": "Db",
+    "Code": 930,
+    "Name": {
+      "en": "São Tomé and Príncipe dobra",
+      "pl": "Dobra (waluta)",
+      "ru": "Добра Сан-Томе и Принсипи",
+      "uk": "Добра Сан-Томе і Принсіпі"
+    }
+  },
+  {
+    "Alpha3": "CUC",
+    "Exponent": 2,
+    "Symbol": "CUC$",
+    "Code": 931,
+    "Name": {
+      "en": "Cuban convertible peso",
+      "pl": "Peso kubańskie wymienialne",
+      "ru": "Кубинское конвертируемое песо",
+      "uk": "Кубинський конвертований песо"
+    }
+  },
+  {
+    "Alpha3": "ZWL",
+    "Exponent": 2,
+    "Symbol": "Z$",
+    "Code": 932,
+    "Name": {
+      "en": "Zimbabwean dollar",
+      "pl": "Dolar Zimbabwe",
+      "ru": "Доллар Зимбабве",
+      "uk": "Зімбабвійський долар"
+    }
+  },
+  {
+    "Alpha3": "BYN",
+    "Exponent": 2,
+    "Symbol": "Br",
+    "Code": 933,
+    "Name": {
+      "en": "Belarusian ruble",
+      "pl": "Rubel białoruski",
+      "ru": "Белорусский рубль",
+      "uk": "Білоруський рубель"
+    }
+  },
+  {
+    "Alpha3": "TMT",
+    "Exponent": 2,
+    "Symbol": "m",
+    "Code": 934,
+    "Name": {
+      "en": "Turkmenistan manat",
+      "pl": "Manat turkmeński",
+      "ru": "Туркменский манат",
+      "uk": "Туркменський манат"
+    }
+  },
+  {
+    "Alpha3": "GHS",
+    "Exponent": 2,
+    "Symbol": "GH₵",
+    "Code": 936,
+    "Name": {
+      "en": "Ghanaian cedi",
+      "pl": "Cedi",
+      "ru": "Ганский седи",
+      "uk": "Ганський седі"
+    }
+  },
+  {
+    "Alpha3": "SDG",
+    "Exponent": 2,
+    "Symbol": "SDG",
+    "Code": 938,
+    "Name": {
+      "en": "Sudanese pound",
+      "pl": "Funt sudański",
+      "ru": "Суданский фунт",
+      "uk": "Суданський фунт"
+    }
+  },
+  {
+    "Alpha3": "RSD",
+    "Exponent": 2,
+    "Symbol": "din",
+    "Code": 941,
+    "Name": {
+      "en": "Serbian dinar",
+      "pl": "Dinar serbski",
+      "ru": "Сербский динар",
+      "uk": "Сербський динар"
+    }
+  },
+  {
+    "Alpha3": "MZN",
+    "Exponent": 2,
+    "Symbol": "MT",
+    "Code": 943,
+    "Name": {
+      "en": "Mozambican metical",
+      "pl": "Metical",
+      "ru": "Мозамбикский метикал",
+      "uk": "Мозамбіцький метікал"
+    }
+  },
+  {
+    "Alpha3": "AZN",
+    "Exponent": 2,
+    "Symbol": "₼",
+    "Code": 944,
+    "Name": {
+      "en": "Azerbaijani manat",
+      "pl": "Manat azerbejdżański",
+      "ru": "Азербайджанский манат",
+      "uk": "Азербайджанський манат"
+    }
+  },
+  {
+    "Alpha3": "RON",
+    "Exponent": 2,
+    "Symbol": "L",
+    "Code": 946,
+    "Name": {
+      "en": "Romanian leu",
+      "pl": "Lej rumuński",
+      "ru": "Румынский лей",
+      "uk": "Румунський лей"
+    }
+  },
+  {
+    "Alpha3": "TRY",
+    "Exponent": 2,
+    "Symbol": "Lira:",
+    "Code": 949,
+    "Name": {
+      "en": "Turkish lira",
+      "pl": "Lira turecka",
+      "ru": "Турецкая лира",
+      "uk": "Турецька ліра"
+    }
+  },
+  {
+    "Alpha3": "XAF",
+    "Exponent": 0,
+    "Symbol": "FCFA",
+    "Code": 950,
+    "Name": {
+      "en": "CFA franc BEAC",
+      "ru": "Франк КФА BEAC",
+      "uk": "Центральноафриканський франк"
+    }
+  },
+  {
+    "Alpha3": "XCD",
+    "Exponent": 2,
+    "Symbol": "EC$",
+    "Code": 951,
+    "Name": {
+      "en": "East Caribbean dollar",
+      "pl": "Dolar wschodniokaraibski",
+      "ru": "Восточнокарибский доллар",
+      "uk": "Східнокарибський долар"
+    }
+  },
+  {
+    "Alpha3": "XOF",
+    "Exponent": 0,
+    "Symbol": "CFA",
+    "Code": 952,
+    "Name": {
+      "en": "CFA franc BCEAO",
+      "ru": "Франк КФА BCEAO",
+      "uk": "Західноафриканський франк"
+    }
+  },
+  {
+    "Alpha3": "XPF",
+    "Exponent": 0,
+    "Symbol": "₣",
+    "Code": 953,
+    "Name": {
+      "en": "CFP franc (franc Pacifique)",
+      "pl": "Frank CFP",
+      "ru": "Тихоокеанский франк",
+      "uk": "Французький тихоокеанський франк"
+    }
+  },
+  {
+    "Alpha3": "ZMW",
+    "Exponent": 2,
+    "Symbol": "K",
+    "Code": 967,
+    "Name": {
+      "en": "Zambian kwacha",
+      "pl": "Kwacha zambijska",
+      "ru": "Замбийская квача",
+      "uk": "Замбійська квача"
+    }
+  },
+  {
+    "Alpha3": "SRD",
+    "Exponent": 2,
+    "Symbol": "Sr$",
+    "Code": 968,
+    "Name": {
+      "en": "Surinamese dollar",
+      "pl": "Dolar surinamski",
+      "ru": "Суринамский доллар",
+      "uk": "Суринамський долар"
+    }
+  },
+  {
+    "Alpha3": "MGA",
+    "Exponent": 2,
+    "Symbol": "Ar",
+    "Code": 969,
+    "Name": {
+      "en": "Malagasy ariary",
+      "pl": "Ariary",
+      "ru": "Малагасийский ариари",
+      "uk": "Малагасійський аріарі"
+    }
+  },
+  {
+    "Alpha3": "AFN",
+    "Exponent": 2,
+    "Symbol": "؋",
+    "Code": 971,
+    "Name": {
+      "en": "Afghan afghani",
+      "pl": "Afgani",
+      "ru": "Афгани",
+      "uk": "Афгані"
+    }
+  },
+  {
+    "Alpha3": "TJS",
+    "Exponent": 2,
+    "Symbol": "SM",
+    "Code": 972,
+    "Name": {
+      "en": "Tajikistani somoni",
+      "pl": "Somoni",
+      "ru": "Сомони",
+      "uk": "Таджицький сомоні"
+    }
+  },
+  {
+    "Alpha3": "AOA",
+    "Exponent": 2,
+    "Symbol": "Kz",
+    "Code": 973,
+    "Name": {
+      "en": "Angolan kwanza",
+      "pl": "Kwanza",
+      "ru": "Ангольская кванза",
+      "uk": "Ангольська кванза"
+    }
+  },
+  {
+    "Alpha3": "BGN",
+    "Exponent": 2,
+    "Symbol": "лв.",
+    "Code": 975,
+    "Name": {
+      "en": "Bulgarian lev",
+      "pl": "Lew (waluta)",
+      "ru": "Болгарский лев",
+      "uk": "Болгарський лев"
+    }
+  },
+  {
+    "Alpha3": "CDF",
+    "Exponent": 2,
+    "Symbol": "FC",
+    "Code": 976,
+    "Name": {
+      "en": "Congolese franc",
+      "pl": "Frank kongijski",
+      "ru": "Конголезский франк",
+      "uk": "Конголезький франк"
+    }
+  },
+  {
+    "Alpha3": "BAM",
+    "Exponent": 2,
+    "Symbol": "KM",
+    "Code": 977,
+    "Name": {
+      "en": "Bosnia and Herzegovina convertible mark",
+      "pl": "Marka zamienna",
+      "ru": "Конвертируемая марка",
+      "uk": "Конвертовна марка"
+    }
+  },
+  {
+    "Alpha3": "EUR",
+    "Exponent": 2,
+    "Symbol": "€",
+    "Code": 978,
+    "Name": {
+      "en": "Euro",
+      "pl": "Euro",
+      "ru": "Евро",
+      "uk": "Євро"
+    }
+  },
+  {
+    "Alpha3": "UAH",
+    "Exponent": 2,
+    "Symbol": "₴",
+    "Code": 980,
+    "Name": {
+      "en": "Ukrainian hryvnia",
+      "pl": "Hrywna",
+      "ru": "Украинская гривна",
+      "uk": "Гривня"
+    }
+  },
+  {
+    "Alpha3": "GEL",
+    "Exponent": 2,
+    "Symbol": "₾",
+    "Code": 981,
+    "Name": {
+      "en": "Georgian lari",
+      "pl": "Lari (waluta)",
+      "ru": "Грузинский лари",
+      "uk": "Грузинський ларі"
+    }
+  },
+  {
+    "Alpha3": "PLN",
+    "Exponent": 2,
+    "Symbol": "zł",
+    "Code": 985,
+    "Name": {
+      "en": "Polish złoty",
+      "pl": "Złoty",
+      "ru": "Польский злотый",
+      "uk": "Злотий"
+    }
+  },
+  {
+    "Alpha3": "BRL",
+    "Exponent": 2,
+    "Symbol": "R$",
+    "Code": 986,
+    "Name": {
+      "en": "Brazilian real",
+      "pl": "Real brazylijski",
+      "ru": "Бразильский реал",
+      "uk": "Бразильський реал"
+    }
+  }
+]

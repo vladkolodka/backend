@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Product>Menchul MCode Library</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Menchul\Menchul.Core\Menchul.Core.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,594 @@
+@baseAddess = http://localhost:5004
+# @baseAddess = http://localhost:5000
+# @baseAddess = http://localhost:5050
+# @baseAddess = https://next.api.mcode.menchul.com
+
+@accessToken = eyJhbGciOiJSUzI1NiIsImtpZCI6IjE4NzYxOTE4NEI0RUM2OUMyRTM3QUUzRThDMzVFNjEzIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE2Mjk2NTcwNzMsImV4cCI6MTYyOTY2MDY3MywiaXNzIjoiaHR0cHM6Ly9pZGVudGl0eS5tZW5jaHVsLmNvbSIsImF1ZCI6WyJNQ29kZSIsImh0dHBzOi8vaWRlbnRpdHkubWVuY2h1bC5jb20vcmVzb3VyY2VzIl0sImNsaWVudF9pZCI6InRlc3RfY29tcGFueV9jbGllbnQiLCJjbGllbnRfQ29tcGFueUlkIjoiYjBhMTNiYTAtNGViNS00YzAzLTgzODEtZGU1ZjM0OTYwMTRjIiwianRpIjoiQ0U4QzRDNTc3NzE2NUZGQzhGMDBCMjUwQUZGRkZENkIiLCJpYXQiOjE2Mjk2NTcwNzMsInNjb3BlIjpbIk1Db2RlLlBhY2thZ2VzIiwiTUNvZGUuUHJvZHVjdFVuaXRzIl19.OvUalz-sePAbO7TJQvaWYNvDC3ZiiduMdxTuMM0BaNZQdn7wYCAFSsB3rSPUVTO2BpXG5qeWhYaJuk18w5qD4qDsen-JpM2vqa1I7diNMCk-dKFajjgNc6h-o3H0vV6pGTFoRfPMSikKpcS6RXcqlEihcrHTUm6uxonKhfOf_IgUWGVT6zyF0aGlv2dCStrGm69DMCbYQ2snp0MEoeeO1PMlArXKklK0IGhsx43M2c-0biuqJAkTb5D9XOSIxYgGu_4FaLhNsJpdBmrSUSJKD9CYpins34cCdSHBJiXs0cfmnfv8zs69LNknEaNU0FpNsG0oeqxFNgMDzVNb3u-dDw
+
+###
+
+GET {{baseAddess}}/
+
+
+### test command
+
+POST {{baseAddess}}/test
+Content-Type: application/json
+
+{}
+
+### create a new company
+
+POST {{baseAddess}}/clients
+Content-Type: application/json
+Authorization: Bearer {{accessToken}}
+
+{
+    "name": "test company 1",
+    "phone": "0963176086",
+    "email": "test132@company.ua",
+    "url": "company.ua",
+    "legalAddress": {
+        "countryCode": "ua",
+        "postCode": "49010",
+        "regionCode": "49000",
+        "areaCode": "49000",
+        "area": {
+            "translations": {
+                "rus": "Днепропетровская",
+                "eng": "Dnipropetrovska"
+            }
+        },
+        "settlement": {
+            "translations": {
+                "rus": "Днипро",
+                "eng": "Dnipro"
+            }
+        },
+        "street": {
+            "translations": {
+                "rus": "Центральная",
+                "eng": "Сentral'naya"
+            }
+        },
+        "building": "30",
+        "room": "Палата №6",
+        "comments": {
+            "translations": {
+                "rus": "Комментарий",
+                "eng": "Comment"
+            }
+        }
+    },
+    "mailAddress": {
+        "countryCode": "ua",
+        "postCode": "49010",
+        "regionCode": "49000",
+        "areaCode": "49000",
+        "area": {
+            "translations": {
+                "rus": "Днепропетровская",
+                "eng": "Dnipropetrovska"
+            }
+        },
+        "settlement": {
+            "translations": {
+                "rus": "Днипро",
+                "eng": "Dnipro"
+            }
+        },
+        "street": {
+            "translations": {
+                "rus": "Центральная",
+                "eng": "Сentral'naya"
+            }
+        },
+        "building": "30",
+        "room": "Палата №7",
+        "comments": {
+            "translations": {
+                "rus": "Комментарий 1",
+                "eng": "Comment 1"
+            }
+        }
+    }
+}
+
+### create company
+
+POST {{baseAddess}}/companies
+Authorization: Bearer {{accessToken}}
+Content-Type: application/json
+
+{
+    "name": "T-Toyota",
+    "description": {
+        "translations": {
+            "rus": "Т-Тойота cars",
+            "eng": "T-Toyota cars"
+        }
+    },
+    "phone": "1234565789",
+    "email": "support@toyota.com",
+    "url": "toyota.com",
+    "address": {
+        "countryCode": "jp",
+        "postCode": "49010",
+        "regionCode": "49000",
+        "areaCode": "49000",
+        "area": {
+            "translations": {
+                "rus": "Токио_",
+                "eng": "Tokyo_"
+            }
+        },
+        "settlement": {
+            "translations": {
+                "rus": "Токио",
+                "eng": "Tokyo"
+            }
+        },
+        "street": {
+            "translations": {
+                "rus": "Улица",
+                "eng": "Street"
+            }
+        },
+        "building": "30",
+        "room": "green room",
+        "comments": {
+            "translations": {
+                "rus": "Комментарий",
+                "eng": "Comment"
+            }
+        }
+    },
+    "certificates": [
+        "cert 1", "cert 2", "cert 3"
+    ]
+}
+
+### update company
+
+PUT {{baseAddess}}/companies
+Content-Type: application/json
+
+{
+    "id": "cf744000-b1d3-4c59-bbed-2634d3d89249",
+    "name": "T-Toyota - renamed",
+    "description": {
+        "translations": {
+            "rus": "Т-Тойота cars",
+            "eng": "T-Toyota cars"
+        }
+    },
+    "phone": "1234565789",
+    "email": "support@toyota.com",
+    "url": "toyota.com",
+    "address": {
+        "countryCode": "jp",
+        "postCode": "49011",
+        "regionCode": "49000",
+        "areaCode": "49000",
+        "area": {
+            "translations": {
+                "rus": "Токио_",
+                "eng": "Tokyo_"
+            }
+        },
+        "settlement": {
+            "translations": {
+                "rus": "Токио",
+                "eng": "Tokyo"
+            }
+        },
+        "street": {
+            "translations": {
+                "rus": "Улица",
+                "eng": "Street"
+            }
+        },
+        "building": "30",
+        "room": "green room",
+        "comments": {
+            "translations": {
+                "rus": "Комментарий",
+                "eng": "Comment"
+            }
+        }
+    },
+    "certificates": [
+        "cert 1", "cert 2", "cert 3"
+    ]
+}
+
+### delete company 
+DELETE {{baseAddess}}/companies/0aacaf5e-3663-4bd0-a479-a3a108430d5a
+
+### get owned companies
+GET {{baseAddess}}/companies
+Authorization: Bearer {{accessToken}}
+
+
+### create product
+
+POST {{baseAddess}}/products
+Authorization: Bearer {{accessToken}}
+Content-Type: application/json
+
+{
+    "name": {
+        "translations": {
+            "ru": "Коты",
+            "en": "Cats"
+        }
+    },
+    "EAN": 2234567890156,
+    "parentProductId": null,
+    "brandName": {
+        "translations": {
+            "ru": "Тойота",
+            "en": "Toyota"
+        }
+    },
+    "manufacturerCompanyId" : "7b3d6cb7-f383-4945-baa8-e141e0cacb33",
+    "manufacturerAddressOfManufacturing": {
+        "countryCode": "jp",
+        "postCode": "49010",
+        "regionCode": "49000",
+        "areaCode": "49000",
+        "area": {
+            "translations": {
+                "ru": "Токио_",
+                "en": "Tokyo_"
+            }
+        },
+        "settlement": {
+            "translations": {
+                "ru": "Токио",
+                "en": "Tokyo"
+            }
+        },
+        "street": {
+            "translations": {
+                "ru": "Улица",
+                "en": "Street"
+            }
+        },
+        "building": "30",
+        "room": "another room",
+        "comments": {
+            "translations": {
+                "ru": "Комментарий",
+                "en": "Comment"
+            }
+        }
+    },
+    "brandOwnerAddressOfManufacturing": {
+        "countryCode": "jp",
+        "postCode": "49010",
+        "regionCode": "49000",
+        "areaCode": "49000",
+        "area": {
+            "translations": {
+                "ru": "Токио_",
+                "en": "Tokyo_"
+            }
+        },
+        "settlement": {
+            "translations": {
+                "ru": "Токио",
+                "en": "Tokyo"
+            }
+        },
+        "street": {
+            "translations": {
+                "ru": "Улица",
+                "en": "Street"
+            }
+        },
+        "building": "30",
+        "room": "another room",
+        "comments": {
+            "translations": {
+                "ru": "Комментарий",
+                "en": "Comment"
+            }
+        }
+    },
+    "codes": {
+        "VIN": "1HGEM21292L047875"
+    },
+    "defaultLanguage": "en",
+    "description": {
+        "translations": {
+            "ru": "Комментарий",
+            "en": "Comment"
+        }
+    },
+    "urls": [
+    {
+        "address": "https://enzym.com.ua/domashnye-hlibopechennya"
+      },
+      {
+        "address": "https://enzym.com.ua/uploads/content/2019/11/28/source/lvivski_drizhdzhi_suhi-package-100g_3d-223x53.png",
+        "type": "Photo"
+      },
+      {
+        "address": "https://www.youtube.com/c/ВипікайЛюбовЛьвівськіДріжджі"
+      },
+      {
+        "address": "https://vm.tiktok.com/ZMLJFGqb7/"
+      }
+    ],
+    "certificates": ["crt1", "crt2"],
+    "properties":{
+        "a": 1,
+        "b": 2
+    },
+    "metadata": {
+        "version": "0.1",
+        "descriptors": [
+            { "id": "qwerty-1", "component": { "name": "group" }, "binding": "$.productInfo", "parentId": null },
+            { "id": "qwerty-1.1", "component": { "name": "header", "parameters": { "level": 1 } }, "binding": "$.title", "parentId": "qwerty-1" },
+            
+            { "id": "qwerty-1.2", "component": { "name": "group" }, "binding": "$.videos", "parentId": "qwerty-1" },
+            { "id": "qwerty-1.2.1", "component": { "name": "header", "parameters": { "level": 2 } }, "binding": "$.title", "parentId": "qwerty-1.2" },
+
+            { "id": "qwerty-1.2.2", "component": { "name": "carousell", "parameters": { "contentType": "video" } }, "binding": "$.files", "parentId": "qwerty-1.2" },
+            { "id": "qwerty-1.2.2.1", "component": { "name": "video", "parameters": { "type": "embedded" } }, "binding": "$.[0]", "parentId": "qwerty-1.2.2" },
+            { "id": "qwerty-1.2.2.2", "component": { "name": "video", "parameters": { "type": "html" } }, "binding": "$.[1]", "parentId": "qwerty-1.2.2" },
+
+            { "id": "qwerty-1.3", "component": { "name": "group" }, "binding": "$.featuresList", "parentId": "qwerty-1" },
+            { "id": "qwerty-1.3.1", "component": { "name": "header", "parameters": { "level": 2 } }, "binding": "$.title", "parentId": "qwerty-1.3" },
+            { "id": "qwerty-1.3.2", "component": { "name": "keyvalue_list", "parameters": { "icon": true } }, "binding": "$.features", "parentId": "qwerty-1.3" },
+
+            { "id": "qwerty-1.3.2.1", "component": { "namespace": "_pseudo", "name": "item" }, "binding": "$.[0]", "parentId": "qwerty-1.3.2" },
+            { "id": "qwerty-1.3.2.1.1", "component": { "name": "icon" }, "binding": "$.icon", "parentId": "qwerty-1.3.2.1" },
+            { "id": "qwerty-1.3.2.1.2", "component": { "name": "text" }, "binding": "$.key", "parentId": "qwerty-1.3.2.1" },
+            { "id": "qwerty-1.3.2.1.3", "component": { "name": "text" }, "binding": "$.value", "parentId": "qwerty-1.3.2.1" }
+        ]
+    }
+}
+
+
+### update product
+
+
+PUT {{baseAddess}}/products
+Content-Type: application/json
+
+{
+    "id": "60ca4f94c80c4224fa2b2e02",
+    "name": {
+        "translations": {
+            "rus": "Тойота-имя 4",
+            "eng": "Toyota-name 4"
+        }
+    },
+    "brandName": {
+        "translations": {
+            "rus": "Тойота",
+            "eng": "Toyota"
+        }
+    },
+
+    "manufacturerAddressOfManufacturing": {
+        "countryCode": "jp",
+        "postCode": "49011",
+        "regionCode": "49000",
+        "areaCode": "49000",
+        "area": {
+            "translations": {
+                "rus": "Токио_",
+                "eng": "Tokyo_"
+            }
+        },
+        "settlement": {
+            "translations": {
+                "rus": "Токио",
+                "eng": "Tokyo"
+            }
+        },
+        "street": {
+            "translations": {
+                "rus": "Улица",
+                "eng": "Street"
+            }
+        },
+        "building": "30",
+        "room": "another room",
+        "comments": {
+            "translations": {
+                "rus": "Комментарий",
+                "eng": "Comment"
+            }
+        }
+    },
+    "brandOwnerAddressOfManufacturing": {
+        "countryCode": "jp",
+        "postCode": "49010",
+        "regionCode": "49000",
+        "areaCode": "49000",
+        "area": {
+            "translations": {
+                "rus": "Токио_",
+                "eng": "Tokyo_"
+            }
+        },
+        "settlement": {
+            "translations": {
+                "rus": "Токио",
+                "eng": "Tokyo"
+            }
+        },
+        "street": {
+            "translations": {
+                "rus": "Улица",
+                "eng": "Street"
+            }
+        },
+        "building": "30",
+        "room": "another room",
+        "comments": {
+            "translations": {
+                "rus": "Комментарий",
+                "eng": "Comment"
+            }
+        }
+    },
+    "codes": {
+        "VIN": "1HGEM21292L047875"
+    },
+    "defaultLanguage": "rus",
+    "description": {
+        "translations": {
+            "rus": "Комментарий",
+            "eng": "Comment"
+        }
+    },
+    "urls": [],
+    "certificates": ["crt1", "crt2"],
+    "properties": "[1, 2, 3, 4]"
+}
+
+### get products
+
+GET {{baseAddess}}/products
+Authorization: Bearer {{accessToken}}
+
+
+### get product
+
+GET {{baseAddess}}/products/ean/123337
+
+
+### get product by id
+GET {{baseAddess}}/products/e3186e1fe0e25ab8083fc29e
+
+### delete product
+# DELETE {{baseAddess}}/products/46b96cc576ac776b2a103882
+DELETE {{baseAddess}}/products/10755a74294bf0dd4cef546a
+
+### create MQR
+@productId = 5b974b74356c5357c7ffae8e
+
+POST {{baseAddess}}/codes/unit
+Authorization: Bearer {{accessToken}}
+Content-Type: application/json
+
+{
+    "ProductId": "{{productId}}",
+    "DateOfManufacture": "2019-09-27 14:21:03Z",
+    "ExpiryDate": "2022-02-07 22:48:00",
+    "QRImageOptions": {
+        "Resolution": 1000,
+        "ErrorCorrectionLevel": "H",
+        "MCodeSize": "L",
+        "ImageFormat": "Jpeg"
+    },
+    "Codes": {
+        "EAN2": "1234567890123"
+    },
+    "Properties": null
+}
+
+###
+POST {{baseAddess}}/codes/unit
+Authorization: Bearer {{accessToken}}
+Content-Type: application/json
+
+{
+    "ProductId": "{{productId}}",
+    "DateOfManufacture": "2022-01-17 18:03:55Z",
+    "ExpiryDate": "2023-07-17 18:03:55Z",
+    "QRImageOptions": {
+        "Resolution": 1000,
+        "ErrorCorrectionLevel": "H",
+        "MCodeSize": "L",
+        "ImageFormat": "Jpeg"
+    },
+    "Codes": {
+    },
+    "Properties": {
+        "a": "123",
+        "b": 321
+    }
+}
+
+
+###
+GET {{baseAddess}}/c/123337?qr=aOdTSZa7ymw4qhRrAFBza7rL2AjjGG4f4OJauAg_wp5BVEOa5uxOEyPGFTx2y_HyEmtUwqM8cVcoJoKweam4soxnHx11pH-61HyD8sMRtc94DrjS6s6oiHWwtt_x0y05yTUaiUiDZWV8oHrfgGWzkWbMCpYGS10ZoKL4AAZm0BLV1UoBYJMeKvjUS008xcUMEIALe9Yq2R3ReQSNZ7ffetWs-alFshfzaLSJE5zK5ZnqcSTnsFlTkt2ff6v2zN8OusE-8zqd0KgPgHGQQ7RdAQ-QpxRIl4tmA1puqy7RkF9Ka4VghQhc-4wotKfPU1QcasrQaTvKBmYtpyK4wk-OZmPbPjlDG7FxvNAmdrG6fwcSCxZxhOOM8lsS5sTQZLud
+
+
+###
+GET {{baseAddess}}/c/123337?qr=26U8vb-7KrKJsRdYAFBza7rL2AjjGG4f4OJauAg_wp4obi0G0dnj6KEhaBo-yWEkbvOseZGkKFwPESvFX1iOfKVDsAWI9Fp_uUEDWZJ6PHxB_sAR-lOqJeg5C7UGy1oOw1YUHWn16ZFM59Hvzixsj2h5tCn_fWrv-FZptFnG-de-BRpidvtgdFahdk9T1br2TPXChrYVoV33CyE_3WUU6tjqAJ9yJpKWl_k6CLu38F1O8PySQ7gXckn-Md8wJT5vKUPT_Ip-bINxiKodSTFX5av6zBOZAFAWoQgS2_JDDGrl0hakJZ93BW8cm_S07Y1K2bPLPOrqOCqhVDE-ZxpbCHqkaKZTWpiAy-yOCRdH3pBDdwAZO06Tso7s0m5APCVB
+
+### get product unit by id
+GET {{baseAddess}}/codes/unit/9e6ef9fd138f36f8d8c17697
+X-MCode-Mode: UI
+
+### generate package
+
+POST {{baseAddess}}/codes/package
+Authorization: Bearer {{accessToken}}
+Content-Type: application/json
+
+{
+    "properties": "[]",
+    "products": [
+        "af79853fe1416a8a0d9f4ef6", 
+        "b46c113dd4edf8b69b89da1e", 
+        "2cb8e7c5618f3741523406d4", 
+        "9224db12175c73c84d1681b4", 
+        "1168e3aed6f2ee8955ef18b1", 
+        "a3fbefffc5dbe21a07b71719", 
+        "5c92592c4317260a18d17be9", 
+        "7aaff124cb813c6c260f44df", 
+        "71b3591071abad4a79d40843"
+    ],
+    "packages": [],
+    "QRImageOptions": {
+        "Resolution": 1000,
+        "ErrorCorrectionLevel": "H",
+        "MCodeSize": "L",
+        "ImageFormat": "Jpeg"
+    },
+}
+
+
+### get package by id
+
+# GET {{baseAddess}}/codes/package/349f0020d89900ba7be5f72e/deep
+GET {{baseAddess}}/codes/package/349f0020d89900ba7be5f72e
+
+### get package by hsah
+
+GET {{baseAddess}}/p/deep?qr=-qn7hodL5EDF0TZkOfVwuHcm2Qhgt7emQ1M668RKcBcS7WZomgbLLjbycamCMvIgsU74IrxaVU3gIJDV9g4DztGg7Y_C4gbDYjt4UJuVdMwoeYU5AQd8n-udA0zmTMnelqc1VM1sNMs2HN9XoZlV5z2JGpv-iiFd_Y-MRm1VP8VZCsl57yoRcUmZx_v7GIzVvGkBVCsJXRVTXbrzV-tn0NaTvh1V_R2gzleGP6V_Wny_t0cg8j7lT1XC09DuJqI8dISxKx8WY_zL0CHpJvb4VB2BDmX0na27dRETVaPkgmDKLmBKVzWpq9FtJJ16vvs4e2xnJIXmmb7DJkW2ZZmC_YA5BANqgYws8mUH5J2TdskhZthz_7ZXbk4zX0n4dAQQ
+
+
+### countries
+
+GET {{baseAddess}}/reference-books/countries?key=code&values=[4, 8]
+
+###
+
+GET {{baseAddess}}/reference-books/countries?key=alpha3&values=['ALB']
+
+###
+
+GET {{baseAddess}}/reference-books/currencies?key=Code&values=[8, 12, 32]
+
+###
+
+GET {{baseAddess}}/reference-books/currencies?key=alpha3&values=['ARS', 'DZD']
+
+
+
+### cats
+
+GET {{baseAddess}}/a/1234567890123?qr=LwSK0NfzCn2dEODtVUPXCOPrNmtUAJNKoTgDr2GDSTw9KMwToQNrkpUE3mlFoD8AB0m1d2PHbEkQsH0cxm_BAjKjYKzSbAjDQCdx56Gdhfdvt4onyEV5-0bJFrK1cWGscGQSZ2wgdcwdzCDCvLlTyHi3LKUsI84SnFscoTbl9m3qB0Vjh6WjwTEKJh0UciyI9eo5B_1e3YJFN6_NMI7rCyZSlXTjmOnWyPKQBB4RDwCTR7qmowT3jXqIB9FvotUDtl42wMmwbff45BTXBk17L9ftYItGNwPQwzXjImCQHBQtDR58zsHJIr92Gpclo-ECxFHDaS2aHZr03mPnkHF3sjZDj-nC4OP-kVgHu7Igc37mxbMhWAhwjcsh2YsfT_qE
+
+### car
+
+GET {{baseAddess}}/a/123?qr=PY1ufP4Fm50AACctn7LYCCDKiw6A5npLutfMjiFb4Oc_GPsrx2HX7PW3YmU73Texs7ZWQLFT_nbuXtP2y5hD31xFcOrU9K78JQjDrp1g4mTKUMmBD7JxEY12QuWDwiDCkcPI7hOMyjU05y8ljP0RIeSP0lKEjKRB-lfbGnoNp34dZSV7x4dapyYKEtOFRBLUnN5RYvqAsmHx09dyBhNw2C_F5h9k5QozWRakNL54ApxLOQX6iRlzTi4B4VAhWgFZe_kLn_mdZkXKgwuf2Uj25zD_YM9MorOjTOSsMNOKGaS02X-OhoNz7vD0KuuyzMYzijscMG2NsZM2shUMZt4WHJlH7S68E5BcgKkEHOOoOm9srzDygdVS98yJ6DrDAtxC

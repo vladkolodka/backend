@@ -1,0 +1,4386 @@
+﻿[
+  {
+    "Alpha2": "AF",
+    "Alpha3": "AFG",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg",
+    "Currency": "AFN",
+    "PhoneCode": "+93",
+    "TimeZone": "UTC+4:30 Solar Calendar (D†)",
+    "Code": 4,
+    "Name": {
+      "en": "Afghanistan",
+      "pl": "Afganistan",
+      "ru": "Афганистан",
+      "uk": "Афганістан"
+    }
+  },
+  {
+    "Alpha2": "AL",
+    "Alpha3": "ALB",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+    "Currency": "ALL",
+    "PhoneCode": "+355",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 8,
+    "Name": {
+      "en": "Albania",
+      "pl": "Albania",
+      "ru": "Албания",
+      "uk": "Албанія"
+    }
+  },
+  {
+    "Alpha2": "AQ",
+    "Alpha3": "ATA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/bb/Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg",
+    "Code": 10,
+    "Name": {
+      "en": "Antarctica",
+      "pl": "Antarktyda",
+      "ru": "Антарктида",
+      "uk": "Антарктида"
+    }
+  },
+  {
+    "Alpha2": "DZ",
+    "Alpha3": "DZA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+    "Currency": "DZD",
+    "PhoneCode": "+213",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 12,
+    "Name": {
+      "en": "Algeria",
+      "pl": "Algieria",
+      "ru": "Алжир",
+      "uk": "Алжир"
+    }
+  },
+  {
+    "Alpha2": "AS",
+    "Alpha3": "ASM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
+    "Currency": "USD",
+    "PhoneCode": "+1-684",
+    "TimeZone": "UTC−11:00 (SST)",
+    "Code": 16,
+    "Name": {
+      "en": "American Samoa",
+      "pl": "Samoa Amerykańskie",
+      "ru": "Американское Самоа",
+      "uk": "Американське Самоа"
+    }
+  },
+  {
+    "Alpha2": "AD",
+    "Alpha3": "AND",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+376",
+    "TimeZone": "UTC+01 (CET)",
+    "Code": 20,
+    "Name": {
+      "en": "Andorra",
+      "pl": "Andora",
+      "ru": "Андорра",
+      "uk": "Андорра"
+    }
+  },
+  {
+    "Alpha2": "AO",
+    "Alpha3": "AGO",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
+    "Currency": "AOA",
+    "PhoneCode": "+244",
+    "TimeZone": "UTC+1 (WAT)",
+    "Code": 24,
+    "Name": {
+      "en": "Angola",
+      "pl": "Angola",
+      "ru": "Ангола",
+      "uk": "Ангола"
+    }
+  },
+  {
+    "Alpha2": "AG",
+    "Alpha3": "ATG",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+    "Currency": "XCD",
+    "PhoneCode": "+1-268",
+    "TimeZone": "UTC-4 (AST)",
+    "Code": 28,
+    "Name": {
+      "en": "Antigua and Barbuda",
+      "pl": "Antigua i Barbuda",
+      "ru": "Антигуа и Барбуда",
+      "uk": "Антигуа і Барбуда"
+    }
+  },
+  {
+    "Alpha2": "AZ",
+    "Alpha3": "AZE",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+    "Currency": "AZN",
+    "PhoneCode": "+994",
+    "TimeZone": "UTC+4 (AZT)",
+    "Code": 31,
+    "Name": {
+      "en": "Azerbaijan",
+      "pl": "Azerbejdżan",
+      "ru": "Азербайджан",
+      "uk": "Азербайджан"
+    }
+  },
+  {
+    "Alpha2": "AR",
+    "Alpha3": "ARG",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+    "Currency": "ARS",
+    "PhoneCode": "+54",
+    "TimeZone": "UTC−3 (ART)",
+    "Code": 32,
+    "Name": {
+      "en": "Argentina",
+      "pl": "Argentyna",
+      "ru": "Аргентина",
+      "uk": "Аргентина"
+    }
+  },
+  {
+    "Alpha2": "AU",
+    "Alpha3": "AUS",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+    "Currency": "AUD",
+    "PhoneCode": "+61",
+    "TimeZone": "UTC+8; +9.5; +10 (Various[N 4])",
+    "Code": 36,
+    "Name": {
+      "en": "Australia",
+      "pl": "Australia",
+      "ru": "Австралия",
+      "uk": "Австралія"
+    }
+  },
+  {
+    "Alpha2": "AT",
+    "Alpha3": "AUT",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+43",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 40,
+    "Name": {
+      "en": "Austria",
+      "pl": "Austria",
+      "ru": "Австрия",
+      "uk": "Австрія"
+    }
+  },
+  {
+    "Alpha2": "BS",
+    "Alpha3": "BHS",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+    "Currency": "BSD",
+    "PhoneCode": "+1 242",
+    "TimeZone": "UTC−5 (EST)",
+    "Code": 44,
+    "Name": {
+      "en": "Bahamas",
+      "pl": "Bahamy",
+      "ru": "Багамские Острова",
+      "uk": "Багамські Острови"
+    }
+  },
+  {
+    "Alpha2": "BH",
+    "Alpha3": "BHR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
+    "Currency": "BHD",
+    "PhoneCode": "+973",
+    "TimeZone": "UTC+3 (AST)",
+    "Code": 48,
+    "Name": {
+      "en": "Bahrain",
+      "pl": "Bahrajn",
+      "ru": "Бахрейн",
+      "uk": "Бахрейн"
+    }
+  },
+  {
+    "Alpha2": "BD",
+    "Alpha3": "BGD",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+    "Currency": "BDT",
+    "PhoneCode": "+880",
+    "TimeZone": "UTC+6 (BST)",
+    "Code": 50,
+    "Name": {
+      "en": "Bangladesh",
+      "pl": "Bangladesz",
+      "ru": "Бангладеш",
+      "uk": "Бангладеш"
+    }
+  },
+  {
+    "Alpha2": "AM",
+    "Alpha3": "ARM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+    "Currency": "AMD",
+    "PhoneCode": "+374",
+    "TimeZone": "UTC+4 (AMT)",
+    "Code": 51,
+    "Name": {
+      "en": "Armenia",
+      "pl": "Armenia",
+      "ru": "Армения",
+      "uk": "Вірменія"
+    }
+  },
+  {
+    "Alpha2": "BB",
+    "Alpha3": "BRB",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
+    "Currency": "BBD",
+    "PhoneCode": "+1 -246",
+    "TimeZone": "UTC−4 (AST)",
+    "Code": 52,
+    "Name": {
+      "en": "Barbados",
+      "pl": "Barbados",
+      "ru": "Барбадос",
+      "uk": "Барбадос"
+    }
+  },
+  {
+    "Alpha2": "BE",
+    "Alpha3": "BEL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+32",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 56,
+    "Name": {
+      "en": "Belgium",
+      "pl": "Belgia",
+      "ru": "Бельгия",
+      "uk": "Бельгія"
+    }
+  },
+  {
+    "Alpha2": "BM",
+    "Alpha3": "BMU",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bermuda.svg",
+    "Currency": "BMD",
+    "PhoneCode": "+1-441",
+    "TimeZone": "UTC−04:00 (AST[4])",
+    "Code": 60,
+    "Name": {
+      "en": "Bermuda",
+      "pl": "Bermudy",
+      "ru": "Бермудские Острова",
+      "uk": "Бермудські Острови"
+    }
+  },
+  {
+    "Alpha2": "BT",
+    "Alpha3": "BTN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
+    "Currency": "BTN",
+    "PhoneCode": "+975",
+    "TimeZone": "UTC+06 (BTT)",
+    "Code": 64,
+    "Name": {
+      "en": "Bhutan",
+      "pl": "Bhutan",
+      "ru": "Бутан",
+      "uk": "Бутан"
+    }
+  },
+  {
+    "Alpha2": "BO",
+    "Alpha3": "BOL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg",
+    "Currency": "BOB",
+    "PhoneCode": "+591",
+    "TimeZone": "UTC−4 (BOT)",
+    "Code": 68,
+    "Name": {
+      "en": "Bolivia (Plurinational State of)",
+      "pl": "Boliwia",
+      "ru": "Боливия",
+      "uk": "Болівія"
+    }
+  },
+  {
+    "Alpha2": "BA",
+    "Alpha3": "BIH",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+    "Currency": "BAM",
+    "PhoneCode": "+387",
+    "TimeZone": "UTC+01 (CET)",
+    "Code": 70,
+    "Name": {
+      "en": "Bosnia and Herzegovina",
+      "pl": "Bośnia i Hercegowina",
+      "ru": "Босния и Герцеговина",
+      "uk": "Боснія і Герцеговина"
+    }
+  },
+  {
+    "Alpha2": "BW",
+    "Alpha3": "BWA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg",
+    "Currency": "BWP",
+    "PhoneCode": "+267",
+    "TimeZone": "Central Africa Time (GMT+2)[14]",
+    "Code": 72,
+    "Name": {
+      "en": "Botswana",
+      "pl": "Botswana",
+      "ru": "Ботсвана",
+      "uk": "Ботсвана"
+    }
+  },
+  {
+    "Alpha2": "BV",
+    "Alpha3": "BVT",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+    "Code": 74,
+    "Name": {
+      "en": "Bouvet Island",
+      "pl": "Wyspa Bouveta",
+      "ru": "Остров Буве",
+      "uk": "Буве"
+    }
+  },
+  {
+    "Alpha2": "BR",
+    "Alpha3": "BRA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+    "Currency": "BRL",
+    "PhoneCode": "+55",
+    "TimeZone": "UTC−2 to −5 (BRT)",
+    "Code": 76,
+    "Name": {
+      "en": "Brazil",
+      "pl": "Brazylia",
+      "ru": "Бразилия",
+      "uk": "Бразилія"
+    }
+  },
+  {
+    "Alpha2": "BZ",
+    "Alpha3": "BLZ",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
+    "Currency": "BZD",
+    "PhoneCode": "+501",
+    "TimeZone": "UTC-6 (CST (GMT-6)[10])",
+    "Code": 84,
+    "Name": {
+      "en": "Belize",
+      "pl": "Belize",
+      "ru": "Белиз",
+      "uk": "Беліз"
+    }
+  },
+  {
+    "Alpha2": "IO",
+    "Alpha3": "IOT",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg",
+    "Currency": "GBP",
+    "PhoneCode": "+246",
+    "TimeZone": "UTC+06",
+    "Code": 86,
+    "Name": {
+      "en": "British Indian Ocean Territory",
+      "pl": "Brytyjskie Terytorium Oceanu Indyjskiego",
+      "ru": "Британская Территория в Индийском Океане",
+      "uk": "Британська Територія в Індійському Океані"
+    }
+  },
+  {
+    "Alpha2": "SB",
+    "Alpha3": "SLB",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
+    "Currency": "SBD",
+    "PhoneCode": "+677",
+    "TimeZone": "UTC+11",
+    "Code": 90,
+    "Name": {
+      "en": "Solomon Islands",
+      "pl": "Wyspy Salomona",
+      "ru": "Соломоновы Острова",
+      "uk": "Соломонові Острови"
+    }
+  },
+  {
+    "Alpha2": "VG",
+    "Alpha3": "VGB",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg",
+    "Currency": "USD",
+    "PhoneCode": "+1-284",
+    "TimeZone": "UTC-4:00 (AST)",
+    "Code": 92,
+    "Name": {
+      "en": "Virgin Islands (British)",
+      "pl": "Brytyjskie Wyspy Dziewicze",
+      "ru": "Виргинские Острова (Великобритания)",
+      "uk": "Британські Віргінські Острови"
+    }
+  },
+  {
+    "Alpha2": "BN",
+    "Alpha3": "BRN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
+    "Currency": "BND",
+    "PhoneCode": "+673[c]",
+    "TimeZone": "UTC+8 (Brunei Darussalam Time)",
+    "Code": 96,
+    "Name": {
+      "en": "Brunei Darussalam",
+      "pl": "Brunei",
+      "ru": "Бруней",
+      "uk": "Бруней"
+    }
+  },
+  {
+    "Alpha2": "BG",
+    "Alpha3": "BGR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+    "Currency": "BGN",
+    "PhoneCode": "+359",
+    "TimeZone": "UTC+2 (EET)",
+    "Code": 100,
+    "Name": {
+      "en": "Bulgaria",
+      "pl": "Bułgaria",
+      "ru": "Болгария",
+      "uk": "Болгарія"
+    }
+  },
+  {
+    "Alpha2": "MM",
+    "Alpha3": "MMR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
+    "Currency": "MMK",
+    "PhoneCode": "+95",
+    "TimeZone": "UTC+06:30 (MMT)",
+    "Code": 104,
+    "Name": {
+      "en": "Myanmar",
+      "pl": "Mjanma",
+      "ru": "Мьянма",
+      "uk": "М&#039;янма"
+    }
+  },
+  {
+    "Alpha2": "BI",
+    "Alpha3": "BDI",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
+    "Currency": "BIF",
+    "PhoneCode": "+257",
+    "TimeZone": "UTC+2 (CAT)",
+    "Code": 108,
+    "Name": {
+      "en": "Burundi",
+      "pl": "Burundi",
+      "ru": "Бурунди",
+      "uk": "Бурунді"
+    }
+  },
+  {
+    "Alpha2": "BY",
+    "Alpha3": "BLR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+    "Currency": "BYN",
+    "PhoneCode": "+375",
+    "TimeZone": "UTC+3 (MSK[8])",
+    "Code": 112,
+    "Name": {
+      "en": "Belarus",
+      "pl": "Białoruś",
+      "ru": "Белоруссия",
+      "uk": "Білорусь"
+    }
+  },
+  {
+    "Alpha2": "KH",
+    "Alpha3": "KHM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
+    "Currency": "KHR",
+    "PhoneCode": "+855",
+    "TimeZone": "UTC+7 (ICT)",
+    "Code": 116,
+    "Name": {
+      "en": "Cambodia",
+      "pl": "Kambodża",
+      "ru": "Камбоджа",
+      "uk": "Камбоджа"
+    }
+  },
+  {
+    "Alpha2": "CM",
+    "Alpha3": "CMR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+    "Currency": "XAF",
+    "PhoneCode": "+237",
+    "TimeZone": "UTC+1 (WAT)",
+    "Code": 120,
+    "Name": {
+      "en": "Cameroon",
+      "pl": "Kamerun",
+      "ru": "Камерун",
+      "uk": "Камерун"
+    }
+  },
+  {
+    "Alpha2": "CA",
+    "Alpha3": "CAN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
+    "Currency": "CAD",
+    "PhoneCode": "+1",
+    "TimeZone": "UTC−3.5 to −8",
+    "Code": 124,
+    "Name": {
+      "en": "Canada",
+      "pl": "Kanada",
+      "ru": "Канада",
+      "uk": "Канада"
+    }
+  },
+  {
+    "Alpha2": "CV",
+    "Alpha3": "CPV",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
+    "Currency": "CVE",
+    "PhoneCode": "+238",
+    "TimeZone": "UTC–1 (CVT)",
+    "Code": 132,
+    "Name": {
+      "en": "Cabo Verde",
+      "pl": "Republika Zielonego Przylądka",
+      "ru": "Кабо-Верде",
+      "uk": "Кабо-Верде"
+    }
+  },
+  {
+    "Alpha2": "KY",
+    "Alpha3": "CYM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_the_Cayman_Islands.svg",
+    "Currency": "KYD",
+    "PhoneCode": "+1-345",
+    "TimeZone": "UTC-5:00 (EST)",
+    "Code": 136,
+    "Name": {
+      "en": "Cayman Islands",
+      "pl": "Kajmany (wyspy)",
+      "ru": "Острова Кайман",
+      "uk": "Кайманові Острови"
+    }
+  },
+  {
+    "Alpha2": "CF",
+    "Alpha3": "CAF",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg",
+    "Currency": "XAF",
+    "PhoneCode": "+236",
+    "TimeZone": "UTC+1 (WAT)",
+    "Code": 140,
+    "Name": {
+      "en": "Central African Republic",
+      "pl": "Republika Środkowoafrykańska",
+      "ru": "Центральноафриканская Республика",
+      "uk": "Центральноафриканська Республіка"
+    }
+  },
+  {
+    "Alpha2": "LK",
+    "Alpha3": "LKA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+    "Currency": "LKR",
+    "PhoneCode": "+94",
+    "TimeZone": "UTC+5:30 (SLST)",
+    "Code": 144,
+    "Name": {
+      "en": "Sri Lanka",
+      "pl": "Sri Lanka",
+      "ru": "Шри-Ланка",
+      "uk": "Шрі-Ланка"
+    }
+  },
+  {
+    "Alpha2": "TD",
+    "Alpha3": "TCD",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+    "Currency": "XAF",
+    "PhoneCode": "+235",
+    "TimeZone": "UTC+1 (WAT)",
+    "Code": 148,
+    "Name": {
+      "en": "Chad",
+      "pl": "Czad",
+      "ru": "Чад",
+      "uk": "Чад"
+    }
+  },
+  {
+    "Alpha2": "CL",
+    "Alpha3": "CHL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+    "Currency": "CLP",
+    "PhoneCode": "+56",
+    "TimeZone": "UTC−4 and −6 (CLT and EASTc)",
+    "Code": 152,
+    "Name": {
+      "en": "Chile",
+      "pl": "Chile",
+      "ru": "Чили",
+      "uk": "Чилі"
+    }
+  },
+  {
+    "Alpha2": "CN",
+    "Alpha3": "CHN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+    "Currency": "CNY",
+    "PhoneCode": "+86 (mainland); +852 (Hong Kong); +853 (Macau)",
+    "TimeZone": "UTC+8 (China Standard Time)",
+    "Code": 156,
+    "Name": {
+      "en": "China",
+      "pl": "Chińska Republika Ludowa",
+      "ru": "Китай",
+      "uk": "Китайська Народна Республіка"
+    }
+  },
+  {
+    "Alpha2": "TW",
+    "Alpha3": "TWN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
+    "Currency": "TWD",
+    "PhoneCode": "+886",
+    "TimeZone": "UTC+8 (National Standard Time)",
+    "Code": 158,
+    "Name": {
+      "en": "Taiwan, Province of China",
+      "pl": "Republika Chińska",
+      "ru": "Китайская Республика (Тайвань)",
+      "uk": "Республіка Китай"
+    }
+  },
+  {
+    "Alpha2": "CX",
+    "Alpha3": "CXR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/67/Flag_of_Christmas_Island.svg",
+    "Currency": "AUD",
+    "PhoneCode": "+61 891",
+    "TimeZone": "UTC+07:00 (CXT)",
+    "Code": 162,
+    "Name": {
+      "en": "Christmas Island",
+      "pl": "Wyspa Bożego Narodzenia",
+      "ru": "Остров Рождества (Австралия)",
+      "uk": "Острів Різдва"
+    }
+  },
+  {
+    "Alpha2": "CC",
+    "Alpha3": "CCK",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg",
+    "Currency": "AUD",
+    "PhoneCode": "+61 891",
+    "TimeZone": "UTC+06:30",
+    "Code": 166,
+    "Name": {
+      "en": "Cocos (Keeling) Islands",
+      "pl": "Wyspy Kokosowe",
+      "ru": "Кокосовые острова",
+      "uk": "Кокосові острови"
+    }
+  },
+  {
+    "Alpha2": "CO",
+    "Alpha3": "COL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+    "Currency": "COP",
+    "PhoneCode": "+57",
+    "TimeZone": "UTC−5[b] (COT)",
+    "Code": 170,
+    "Name": {
+      "en": "Colombia",
+      "pl": "Kolumbia",
+      "ru": "Колумбия",
+      "uk": "Колумбія"
+    }
+  },
+  {
+    "Alpha2": "KM",
+    "Alpha3": "COM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
+    "Currency": "KMF",
+    "PhoneCode": "+269",
+    "TimeZone": "UTC+3 (EAT)",
+    "Code": 174,
+    "Name": {
+      "en": "Comoros",
+      "pl": "Komory",
+      "ru": "Коморы",
+      "uk": "Коморські Острови"
+    }
+  },
+  {
+    "Alpha2": "YT",
+    "Alpha3": "MYT",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "TimeZone": "UTC+03:00 (EAT)",
+    "Code": 175,
+    "Name": {
+      "en": "Mayotte",
+      "pl": "Majotta",
+      "ru": "Майотта",
+      "uk": "Майотта"
+    }
+  },
+  {
+    "Alpha2": "CG",
+    "Alpha3": "COG",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
+    "Currency": "XAF",
+    "PhoneCode": "+242",
+    "TimeZone": "UTC+1 (WAT)",
+    "Code": 178,
+    "Name": {
+      "en": "Congo",
+      "pl": "Kongo",
+      "ru": "Республика Конго",
+      "uk": "Республіка Конго"
+    }
+  },
+  {
+    "Alpha2": "CD",
+    "Alpha3": "COD",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+    "Currency": "CDF",
+    "PhoneCode": "+243",
+    "TimeZone": "UTC+1 to +2 (WAT and CAT)",
+    "Code": 180,
+    "Name": {
+      "en": "Congo, Democratic Republic of the",
+      "pl": "Demokratyczna Republika Konga",
+      "ru": "Демократическая Республика Конго",
+      "uk": "Демократична Республіка Конго"
+    }
+  },
+  {
+    "Alpha2": "CK",
+    "Alpha3": "COK",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg",
+    "Currency": "NZD",
+    "PhoneCode": "+682",
+    "TimeZone": "UTC-10 (CKT)",
+    "Code": 184,
+    "Name": {
+      "en": "Cook Islands",
+      "pl": "Wyspy Cooka",
+      "ru": "Острова Кука",
+      "uk": "Острови Кука"
+    }
+  },
+  {
+    "Alpha2": "CR",
+    "Alpha3": "CRI",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+    "Currency": "CRC",
+    "PhoneCode": "+506",
+    "TimeZone": "UTC−6 (CST)",
+    "Code": 188,
+    "Name": {
+      "en": "Costa Rica",
+      "pl": "Kostaryka",
+      "ru": "Коста-Рика",
+      "uk": "Коста-Рика"
+    }
+  },
+  {
+    "Alpha2": "HR",
+    "Alpha3": "HRV",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+    "Currency": "HRK",
+    "PhoneCode": "+385",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 191,
+    "Name": {
+      "en": "Croatia",
+      "pl": "Chorwacja",
+      "ru": "Хорватия",
+      "uk": "Хорватія"
+    }
+  },
+  {
+    "Alpha2": "CU",
+    "Alpha3": "CUB",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+    "Currency": "CUP",
+    "PhoneCode": "+53",
+    "TimeZone": "UTC−5 (CST)",
+    "Code": 192,
+    "Name": {
+      "en": "Cuba",
+      "pl": "Kuba",
+      "ru": "Куба",
+      "uk": "Куба"
+    }
+  },
+  {
+    "Alpha2": "CY",
+    "Alpha3": "CYP",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+357",
+    "TimeZone": "UTC+2 (EET)",
+    "Code": 196,
+    "Name": {
+      "en": "Cyprus",
+      "pl": "Cypr",
+      "ru": "Республика Кипр",
+      "uk": "Кіпр"
+    }
+  },
+  {
+    "Alpha2": "CZ",
+    "Alpha3": "CZE",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+    "Currency": "CZK",
+    "PhoneCode": "+420b",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 203,
+    "Name": {
+      "en": "Czechia",
+      "pl": "Czechy",
+      "ru": "Чехия",
+      "uk": "Чехія"
+    }
+  },
+  {
+    "Alpha2": "BJ",
+    "Alpha3": "BEN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+    "Currency": "XOF",
+    "PhoneCode": "+229",
+    "TimeZone": "UTC+1 (WAT)",
+    "Code": 204,
+    "Name": {
+      "en": "Benin",
+      "pl": "Benin",
+      "ru": "Бенин",
+      "uk": "Бенін"
+    }
+  },
+  {
+    "Alpha2": "DK",
+    "Alpha3": "DNK",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+    "Currency": "DKK",
+    "PhoneCode": "3 calling codes\n +45      (Denmark)\n   +298    (Faroe Islands)\n   +299    (Greenland)",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 208,
+    "Name": {
+      "en": "Denmark",
+      "pl": "Dania",
+      "ru": "Дания",
+      "uk": "Данія"
+    }
+  },
+  {
+    "Alpha2": "DM",
+    "Alpha3": "DMA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+    "Currency": "XCD",
+    "PhoneCode": "+1-767",
+    "TimeZone": "UTC–4 (AST)",
+    "Code": 212,
+    "Name": {
+      "en": "Dominica",
+      "pl": "Dominika",
+      "ru": "Доминика",
+      "uk": "Домініка"
+    }
+  },
+  {
+    "Alpha2": "DO",
+    "Alpha3": "DOM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
+    "Currency": "DOP",
+    "PhoneCode": "+1-809, +1-829, +1-849",
+    "TimeZone": "UTC  – 4:00[4] (Atlantic Standard Time)",
+    "Code": 214,
+    "Name": {
+      "en": "Dominican Republic",
+      "pl": "Dominikana",
+      "ru": "Доминиканская Республика",
+      "uk": "Домініканська Республіка"
+    }
+  },
+  {
+    "Alpha2": "EC",
+    "Alpha3": "ECU",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+    "Currency": "USD",
+    "PhoneCode": "+593",
+    "TimeZone": "UTC−5 / −6 (ECT / GALT)",
+    "Code": 218,
+    "Name": {
+      "en": "Ecuador",
+      "pl": "Ekwador",
+      "ru": "Эквадор",
+      "uk": "Еквадор"
+    }
+  },
+  {
+    "Alpha2": "SV",
+    "Alpha3": "SLV",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+    "Currency": "USD",
+    "PhoneCode": "+503b",
+    "TimeZone": "UTC−6 (CST)",
+    "Code": 222,
+    "Name": {
+      "en": "El Salvador",
+      "pl": "Salwador",
+      "ru": "Сальвадор",
+      "uk": "Сальвадор"
+    }
+  },
+  {
+    "Alpha2": "GQ",
+    "Alpha3": "GNQ",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+    "Currency": "XAF",
+    "PhoneCode": "+240",
+    "TimeZone": "UTC+1 (WAT)",
+    "Code": 226,
+    "Name": {
+      "en": "Equatorial Guinea",
+      "pl": "Gwinea Równikowa",
+      "ru": "Экваториальная Гвинея",
+      "uk": "Екваторіальна Гвінея"
+    }
+  },
+  {
+    "Alpha2": "ET",
+    "Alpha3": "ETH",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
+    "Currency": "ETB",
+    "PhoneCode": "+251",
+    "TimeZone": "UTC+3 (EAT)",
+    "Code": 231,
+    "Name": {
+      "en": "Ethiopia",
+      "pl": "Etiopia",
+      "ru": "Эфиопия",
+      "uk": "Ефіопія"
+    }
+  },
+  {
+    "Alpha2": "ER",
+    "Alpha3": "ERI",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
+    "Currency": "ERN",
+    "PhoneCode": "+291",
+    "TimeZone": "UTC+3 (EAT)",
+    "Code": 232,
+    "Name": {
+      "en": "Eritrea",
+      "pl": "Erytrea",
+      "ru": "Эритрея",
+      "uk": "Еритрея"
+    }
+  },
+  {
+    "Alpha2": "EE",
+    "Alpha3": "EST",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+372",
+    "TimeZone": "UTC+02:00 (EET)",
+    "Code": 233,
+    "Name": {
+      "en": "Estonia",
+      "pl": "Estonia",
+      "ru": "Эстония",
+      "uk": "Естонія"
+    }
+  },
+  {
+    "Alpha2": "FO",
+    "Alpha3": "FRO",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg",
+    "Currency": "DKK",
+    "PhoneCode": "+298",
+    "TimeZone": "UTC±00:00 (WET)",
+    "Code": 234,
+    "Name": {
+      "en": "Faroe Islands",
+      "pl": "Wyspy Owcze",
+      "ru": "Фарерские острова",
+      "uk": "Фарерські острови"
+    }
+  },
+  {
+    "Alpha2": "FK",
+    "Alpha3": "FLK",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_Falkland_Islands.svg",
+    "Currency": "FKP",
+    "PhoneCode": "+500",
+    "TimeZone": "UTC-03:00 (FKST)",
+    "Code": 238,
+    "Name": {
+      "en": "Falkland Islands (Malvinas)",
+      "pl": "Falklandy",
+      "ru": "Фолклендские острова",
+      "uk": "Фолклендські Острови"
+    }
+  },
+  {
+    "Alpha2": "GS",
+    "Alpha3": "SGS",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg",
+    "Currency": "FKP",
+    "PhoneCode": "+500",
+    "TimeZone": "UTC−02:00",
+    "Code": 239,
+    "Name": {
+      "en": "South Georgia and the South Sandwich Islands",
+      "pl": "Georgia Południowa i Sandwich Południowy",
+      "ru": "Южная Георгия и Южные Сандвичевы Острова",
+      "uk": "Південна Джорджія і Південні Сандвічеві Острови"
+    }
+  },
+  {
+    "Alpha2": "FJ",
+    "Alpha3": "FJI",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
+    "Currency": "FJD",
+    "PhoneCode": "+679",
+    "TimeZone": "UTC+12 (FJT)",
+    "Code": 242,
+    "Name": {
+      "en": "Fiji",
+      "pl": "Fidżi",
+      "ru": "Фиджи",
+      "uk": "Фіджі"
+    }
+  },
+  {
+    "Alpha2": "FI",
+    "Alpha3": "FIN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+358",
+    "TimeZone": "UTC+2 (EET)",
+    "Code": 246,
+    "Name": {
+      "en": "Finland",
+      "pl": "Finlandia",
+      "ru": "Финляндия",
+      "uk": "Фінляндія"
+    }
+  },
+  {
+    "Alpha2": "AX",
+    "Alpha3": "ALA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/52/Flag_of_%C3%85land.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+358 18",
+    "TimeZone": "UTC+02:00 (EET)",
+    "Code": 248,
+    "Name": {
+      "en": "Åland Islands",
+      "pl": "Wyspy Alandzkie",
+      "ru": "Аландские острова",
+      "uk": "Аландські острови"
+    }
+  },
+  {
+    "Alpha2": "FR",
+    "Alpha3": "FRA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+33[XI]",
+    "TimeZone": "UTC+1 (Central European Time)",
+    "Code": 250,
+    "Name": {
+      "en": "France",
+      "pl": "Francja",
+      "ru": "Франция",
+      "uk": "Франція"
+    }
+  },
+  {
+    "Alpha2": "GF",
+    "Alpha3": "GUF",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "TimeZone": "UTC−03:00 (GFT)",
+    "Code": 254,
+    "Name": {
+      "en": "French Guiana",
+      "pl": "Gujana Francuska",
+      "ru": "Гвиана (департамент Франции)",
+      "uk": "Французька Гвіана"
+    }
+  },
+  {
+    "Alpha2": "PF",
+    "Alpha3": "PYF",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_French_Polynesia.svg",
+    "Currency": "XPF",
+    "PhoneCode": "+689",
+    "TimeZone": "UTC−10:00UTC−09:30 (Marquesas Islands)UTC−09:00 (Gambier Islands)",
+    "Code": 258,
+    "Name": {
+      "en": "French Polynesia",
+      "pl": "Polinezja Francuska",
+      "ru": "Французская Полинезия",
+      "uk": "Французька Полінезія"
+    }
+  },
+  {
+    "Alpha2": "TF",
+    "Alpha3": "ATF",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg",
+    "Currency": "EUR",
+    "TimeZone": "UTC+04:00UTC+05:00UTC+10:00",
+    "Code": 260,
+    "Name": {
+      "en": "French Southern Territories",
+      "pl": "Francuskie Terytoria Południowe i Antarktyczne",
+      "ru": "Французские Южные и Антарктические территории",
+      "uk": "Французькі Південні і Антарктичні Території"
+    }
+  },
+  {
+    "Alpha2": "DJ",
+    "Alpha3": "DJI",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg",
+    "Currency": "DJF",
+    "PhoneCode": "+253",
+    "TimeZone": "UTC+3 (EAT)",
+    "Code": 262,
+    "Name": {
+      "en": "Djibouti",
+      "pl": "Dżibuti",
+      "ru": "Джибути",
+      "uk": "Джибуті"
+    }
+  },
+  {
+    "Alpha2": "GA",
+    "Alpha3": "GAB",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+    "Currency": "XAF",
+    "PhoneCode": "+241",
+    "TimeZone": "UTC+1 (WAT)",
+    "Code": 266,
+    "Name": {
+      "en": "Gabon",
+      "pl": "Gabon",
+      "ru": "Габон",
+      "uk": "Габон"
+    }
+  },
+  {
+    "Alpha2": "GE",
+    "Alpha3": "GEO",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+    "Currency": "GEL",
+    "PhoneCode": "+995",
+    "TimeZone": "UTC+4 (Georgia Time GET)",
+    "Code": 268,
+    "Name": {
+      "en": "Georgia",
+      "pl": "Gruzja",
+      "ru": "Грузия",
+      "uk": "Грузія"
+    }
+  },
+  {
+    "Alpha2": "GM",
+    "Alpha3": "GMB",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+    "Currency": "GMD",
+    "PhoneCode": "+220",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 270,
+    "Name": {
+      "en": "Gambia",
+      "pl": "Gambia",
+      "ru": "Гамбия",
+      "uk": "Гамбія"
+    }
+  },
+  {
+    "Alpha2": "PS",
+    "Alpha3": "PSE",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
+    "Currency": "ILS",
+    "PhoneCode": "+970",
+    "TimeZone": "UTC+2 (Palestine Standard Time)",
+    "Code": 275,
+    "Name": {
+      "en": "Palestine, State of",
+      "pl": "Palestyna (państwo)",
+      "ru": "Государство Палестина",
+      "uk": "Палестинська держава"
+    }
+  },
+  {
+    "Alpha2": "DE",
+    "Alpha3": "DEU",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+    "Currency": "EUR",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 276,
+    "Name": {
+      "en": "Germany",
+      "pl": "Niemcy",
+      "ru": "Германия",
+      "uk": "Німеччина"
+    }
+  },
+  {
+    "Alpha2": "GH",
+    "Alpha3": "GHA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+    "Currency": "GHS",
+    "PhoneCode": "+233",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 288,
+    "Name": {
+      "en": "Ghana",
+      "pl": "Ghana",
+      "ru": "Гана",
+      "uk": "Гана"
+    }
+  },
+  {
+    "Alpha2": "GI",
+    "Alpha3": "GIB",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
+    "Currency": "GIP",
+    "PhoneCode": "+350",
+    "TimeZone": "UTC+01:00 (CET)",
+    "Code": 292,
+    "Name": {
+      "en": "Gibraltar",
+      "pl": "Gibraltar",
+      "ru": "Гибралтар",
+      "uk": "Гібралтар"
+    }
+  },
+  {
+    "Alpha2": "KI",
+    "Alpha3": "KIR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg",
+    "Currency": "AUD",
+    "PhoneCode": "+686",
+    "TimeZone": "UTC+12, +13, +14",
+    "Code": 296,
+    "Name": {
+      "en": "Kiribati",
+      "pl": "Kiribati",
+      "ru": "Кирибати",
+      "uk": "Кірибаті"
+    }
+  },
+  {
+    "Alpha2": "GR",
+    "Alpha3": "GRC",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+30",
+    "TimeZone": "UTC+02:00 (Eastern European Time)",
+    "Code": 300,
+    "Name": {
+      "en": "Greece",
+      "pl": "Grecja",
+      "ru": "Греция",
+      "uk": "Греція"
+    }
+  },
+  {
+    "Alpha2": "GL",
+    "Alpha3": "GRL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg",
+    "Currency": "DKK",
+    "PhoneCode": "+299",
+    "TimeZone": "UTC±00:00 to UTC-04:00",
+    "Code": 304,
+    "Name": {
+      "en": "Greenland",
+      "pl": "Grenlandia",
+      "ru": "Гренландия (административная единица)",
+      "uk": "Гренландія"
+    }
+  },
+  {
+    "Alpha2": "GD",
+    "Alpha3": "GRD",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
+    "Currency": "XCD",
+    "PhoneCode": "+1-473",
+    "TimeZone": "UTC−4 (AST)",
+    "Code": 308,
+    "Name": {
+      "en": "Grenada",
+      "pl": "Grenada",
+      "ru": "Гренада",
+      "uk": "Гренада"
+    }
+  },
+  {
+    "Alpha2": "GP",
+    "Alpha3": "GLP",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "TimeZone": "UTC-04:00 (AST)",
+    "Code": 312,
+    "Name": {
+      "en": "Guadeloupe",
+      "pl": "Gwadelupa",
+      "ru": "Гваделупа",
+      "uk": "Гваделупа"
+    }
+  },
+  {
+    "Alpha2": "GU",
+    "Alpha3": "GUM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Guam.svg",
+    "Currency": "USD",
+    "PhoneCode": "+1-671",
+    "TimeZone": "UTC+10:00 (ChST)",
+    "Code": 316,
+    "Name": {
+      "en": "Guam",
+      "pl": "Guam",
+      "ru": "Гуам",
+      "uk": "Гуам"
+    }
+  },
+  {
+    "Alpha2": "GT",
+    "Alpha3": "GTM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
+    "Currency": "GTQ",
+    "PhoneCode": "+502",
+    "TimeZone": "UTC−6 (CST)",
+    "Code": 320,
+    "Name": {
+      "en": "Guatemala",
+      "pl": "Gwatemala",
+      "ru": "Гватемала",
+      "uk": "Гватемала"
+    }
+  },
+  {
+    "Alpha2": "GN",
+    "Alpha3": "GIN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
+    "Currency": "GNF",
+    "PhoneCode": "+224",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 324,
+    "Name": {
+      "en": "Guinea",
+      "pl": "Gwinea",
+      "ru": "Гвинея",
+      "uk": "Гвінея"
+    }
+  },
+  {
+    "Alpha2": "GY",
+    "Alpha3": "GUY",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
+    "Currency": "GYD",
+    "PhoneCode": "+592",
+    "TimeZone": "UTC-4 (AST)",
+    "Code": 328,
+    "Name": {
+      "en": "Guyana",
+      "pl": "Gujana",
+      "ru": "Гайана",
+      "uk": "Гаяна"
+    }
+  },
+  {
+    "Alpha2": "HT",
+    "Alpha3": "HTI",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg",
+    "Currency": "HTG",
+    "PhoneCode": "+509",
+    "TimeZone": "UTC−5 (EST)",
+    "Code": 332,
+    "Name": {
+      "en": "Haiti",
+      "pl": "Haiti",
+      "ru": "Республика Гаити",
+      "uk": "Гаїті"
+    }
+  },
+  {
+    "Alpha2": "HM",
+    "Alpha3": "HMD",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+    "Code": 334,
+    "Name": {
+      "en": "Heard Island and McDonald Islands",
+      "pl": "Wyspy Heard i McDonalda",
+      "ru": "Остров Херд и острова Макдональд",
+      "uk": "Острови Герд і Макдональд"
+    }
+  },
+  {
+    "Alpha2": "VA",
+    "Alpha3": "VAT",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+379[f]",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 336,
+    "Name": {
+      "en": "Holy See",
+      "pl": "Watykan",
+      "ru": "Ватикан",
+      "uk": "Ватикан"
+    }
+  },
+  {
+    "Alpha2": "HN",
+    "Alpha3": "HND",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+    "Currency": "HNL",
+    "PhoneCode": "+504",
+    "TimeZone": "UTC−6 (CST)",
+    "Code": 340,
+    "Name": {
+      "en": "Honduras",
+      "pl": "Honduras",
+      "ru": "Гондурас",
+      "uk": "Гондурас"
+    }
+  },
+  {
+    "Alpha2": "HK",
+    "Alpha3": "HKG",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg",
+    "Currency": "HKD",
+    "PhoneCode": "+852",
+    "TimeZone": "UTC+08:00 (HKT)",
+    "Code": 344,
+    "Name": {
+      "en": "Hong Kong",
+      "pl": "Hongkong",
+      "ru": "Гонконг",
+      "uk": "Гонконг"
+    }
+  },
+  {
+    "Alpha2": "HU",
+    "Alpha3": "HUN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+    "Currency": "HUF",
+    "PhoneCode": "+36",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 348,
+    "Name": {
+      "en": "Hungary",
+      "pl": "Węgry",
+      "ru": "Венгрия",
+      "uk": "Угорщина"
+    }
+  },
+  {
+    "Alpha2": "IS",
+    "Alpha3": "ISL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+    "Currency": "ISK",
+    "PhoneCode": "+354",
+    "TimeZone": "UTC[c] (GMT/WET)",
+    "Code": 352,
+    "Name": {
+      "en": "Iceland",
+      "pl": "Islandia",
+      "ru": "Исландия",
+      "uk": "Ісландія"
+    }
+  },
+  {
+    "Alpha2": "IN",
+    "Alpha3": "IND",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+    "Currency": "INR",
+    "PhoneCode": "+91",
+    "TimeZone": "UTC+05:30 (IST)",
+    "Code": 356,
+    "Name": {
+      "en": "India",
+      "pl": "Indie",
+      "ru": "Индия",
+      "uk": "Індія"
+    }
+  },
+  {
+    "Alpha2": "ID",
+    "Alpha3": "IDN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+    "Currency": "IDR",
+    "PhoneCode": "+62",
+    "TimeZone": "UTC+7 to +9 (various)",
+    "Code": 360,
+    "Name": {
+      "en": "Indonesia",
+      "pl": "Indonezja",
+      "ru": "Индонезия",
+      "uk": "Індонезія"
+    }
+  },
+  {
+    "Alpha2": "IR",
+    "Alpha3": "IRN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+    "Currency": "IRR",
+    "PhoneCode": "+98",
+    "TimeZone": "UTC+3:30 (IRST)",
+    "Code": 364,
+    "Name": {
+      "en": "Iran (Islamic Republic of)",
+      "pl": "Iran",
+      "ru": "Иран",
+      "uk": "Іран"
+    }
+  },
+  {
+    "Alpha2": "IQ",
+    "Alpha3": "IRQ",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+    "Currency": "IQD",
+    "PhoneCode": "+964",
+    "TimeZone": "UTC+3 (AST)",
+    "Code": 368,
+    "Name": {
+      "en": "Iraq",
+      "pl": "Irak",
+      "ru": "Ирак",
+      "uk": "Ірак"
+    }
+  },
+  {
+    "Alpha2": "IE",
+    "Alpha3": "IRL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+353",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 372,
+    "Name": {
+      "en": "Ireland",
+      "pl": "Irlandia",
+      "ru": "Ирландия",
+      "uk": "Ірландія"
+    }
+  },
+  {
+    "Alpha2": "IL",
+    "Alpha3": "ISR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+    "Currency": "ILS",
+    "PhoneCode": "+972",
+    "TimeZone": "UTC+2 (IST)",
+    "Code": 376,
+    "Name": {
+      "en": "Israel",
+      "pl": "Izrael",
+      "ru": "Израиль",
+      "uk": "Ізраїль"
+    }
+  },
+  {
+    "Alpha2": "IT",
+    "Alpha3": "ITA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+39c",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 380,
+    "Name": {
+      "en": "Italy",
+      "pl": "Włochy",
+      "ru": "Италия",
+      "uk": "Італія"
+    }
+  },
+  {
+    "Alpha2": "CI",
+    "Alpha3": "CIV",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
+    "Currency": "XOF",
+    "PhoneCode": "+225",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 384,
+    "Name": {
+      "en": "Côte d'Ivoire",
+      "pl": "Wybrzeże Kości Słoniowej",
+      "ru": "Кот-д’Ивуар",
+      "uk": "Кот-д&#039;Івуар"
+    }
+  },
+  {
+    "Alpha2": "JM",
+    "Alpha3": "JAM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+    "Currency": "JMD",
+    "PhoneCode": "+1-876+1-658 (Overlay of 876; active in November 2018)",
+    "TimeZone": "UTC-5",
+    "Code": 388,
+    "Name": {
+      "en": "Jamaica",
+      "pl": "Jamajka",
+      "ru": "Ямайка",
+      "uk": "Ямайка"
+    }
+  },
+  {
+    "Alpha2": "JP",
+    "Alpha3": "JPN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+    "Currency": "JPY",
+    "PhoneCode": "+81",
+    "TimeZone": "UTC+09:00 (JST)",
+    "Code": 392,
+    "Name": {
+      "en": "Japan",
+      "pl": "Japonia",
+      "ru": "Япония",
+      "uk": "Японія"
+    }
+  },
+  {
+    "Alpha2": "KZ",
+    "Alpha3": "KAZ",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+    "Currency": "KZT",
+    "PhoneCode": "+7-6xx, +7-7xx",
+    "TimeZone": "UTC+5 / +6 (West / East)",
+    "Code": 398,
+    "Name": {
+      "en": "Kazakhstan",
+      "pl": "Kazachstan",
+      "ru": "Казахстан",
+      "uk": "Казахстан"
+    }
+  },
+  {
+    "Alpha2": "JO",
+    "Alpha3": "JOR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
+    "Currency": "JOD",
+    "PhoneCode": "+962",
+    "TimeZone": "UTC+2 (EET)",
+    "Code": 400,
+    "Name": {
+      "en": "Jordan",
+      "pl": "Jordania",
+      "ru": "Иордания",
+      "uk": "Йорданія"
+    }
+  },
+  {
+    "Alpha2": "KE",
+    "Alpha3": "KEN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+    "Currency": "KES",
+    "PhoneCode": "+254",
+    "TimeZone": "UTC+3 (EAT)",
+    "Code": 404,
+    "Name": {
+      "en": "Kenya",
+      "pl": "Kenia",
+      "ru": "Кения",
+      "uk": "Кенія"
+    }
+  },
+  {
+    "Alpha2": "KP",
+    "Alpha3": "PRK",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
+    "Currency": "KPW",
+    "PhoneCode": "+850[16]",
+    "TimeZone": "UTC+9 (Pyongyang Time[15])",
+    "Code": 408,
+    "Name": {
+      "en": "Korea (Democratic People's Republic of)",
+      "pl": "Korea Północna",
+      "ru": "Корейская Народно-Демократическая Республика",
+      "uk": "Північна Корея"
+    }
+  },
+  {
+    "Alpha2": "KR",
+    "Alpha3": "KOR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+    "Currency": "KRW",
+    "PhoneCode": "+82",
+    "TimeZone": "UTC+9 (Korea Standard Time)",
+    "Code": 410,
+    "Name": {
+      "en": "Korea, Republic of",
+      "pl": "Korea Południowa",
+      "ru": "Республика Корея",
+      "uk": "Південна Корея"
+    }
+  },
+  {
+    "Alpha2": "KW",
+    "Alpha3": "KWT",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+    "Currency": "KWD",
+    "PhoneCode": "+965",
+    "TimeZone": "UTC+3 (AST)",
+    "Code": 414,
+    "Name": {
+      "en": "Kuwait",
+      "pl": "Kuwejt",
+      "ru": "Кувейт",
+      "uk": "Кувейт"
+    }
+  },
+  {
+    "Alpha2": "KG",
+    "Alpha3": "KGZ",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg",
+    "Currency": "KGS",
+    "PhoneCode": "+996",
+    "TimeZone": "UTC+6 (KGT)",
+    "Code": 417,
+    "Name": {
+      "en": "Kyrgyzstan",
+      "pl": "Kirgistan",
+      "ru": "Киргизия",
+      "uk": "Киргизстан"
+    }
+  },
+  {
+    "Alpha2": "LA",
+    "Alpha3": "LAO",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
+    "Currency": "LAK",
+    "PhoneCode": "+856",
+    "TimeZone": "UTC+7 (ICT)",
+    "Code": 418,
+    "Name": {
+      "en": "Lao People's Democratic Republic",
+      "pl": "Laos",
+      "ru": "Лаос",
+      "uk": "Лаос"
+    }
+  },
+  {
+    "Alpha2": "LB",
+    "Alpha3": "LBN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
+    "Currency": "LBP",
+    "PhoneCode": "+961[9]",
+    "TimeZone": "UTC+2 (EET)",
+    "Code": 422,
+    "Name": {
+      "en": "Lebanon",
+      "pl": "Liban",
+      "ru": "Ливан",
+      "uk": "Ліван"
+    }
+  },
+  {
+    "Alpha2": "LS",
+    "Alpha3": "LSO",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
+    "Currency": "ZAR",
+    "PhoneCode": "+266",
+    "TimeZone": "UTC+2 (South African Standard Time)",
+    "Code": 426,
+    "Name": {
+      "en": "Lesotho",
+      "pl": "Lesotho",
+      "ru": "Лесото",
+      "uk": "Лесото"
+    }
+  },
+  {
+    "Alpha2": "LV",
+    "Alpha3": "LVA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+371",
+    "TimeZone": "UTC+2 (EET)",
+    "Code": 428,
+    "Name": {
+      "en": "Latvia",
+      "pl": "Łotwa",
+      "ru": "Латвия",
+      "uk": "Латвія"
+    }
+  },
+  {
+    "Alpha2": "LR",
+    "Alpha3": "LBR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+    "Currency": "LRD",
+    "PhoneCode": "+231",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 430,
+    "Name": {
+      "en": "Liberia",
+      "pl": "Liberia",
+      "ru": "Либерия",
+      "uk": "Ліберія"
+    }
+  },
+  {
+    "Alpha2": "LY",
+    "Alpha3": "LBY",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
+    "Currency": "LYD",
+    "PhoneCode": "+218",
+    "TimeZone": "UTC+2 (EET)",
+    "Code": 434,
+    "Name": {
+      "en": "Libya",
+      "pl": "Libia",
+      "ru": "Ливия",
+      "uk": "Лівія"
+    }
+  },
+  {
+    "Alpha2": "LI",
+    "Alpha3": "LIE",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+    "Currency": "CHF",
+    "PhoneCode": "+423",
+    "TimeZone": "UTC+01:00 (CET)",
+    "Code": 438,
+    "Name": {
+      "en": "Liechtenstein",
+      "pl": "Liechtenstein",
+      "ru": "Лихтенштейн",
+      "uk": "Ліхтенштейн"
+    }
+  },
+  {
+    "Alpha2": "LT",
+    "Alpha3": "LTU",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+370",
+    "TimeZone": "UTC+2 (EET)",
+    "Code": 440,
+    "Name": {
+      "en": "Lithuania",
+      "pl": "Litwa",
+      "ru": "Литва",
+      "uk": "Литва"
+    }
+  },
+  {
+    "Alpha2": "LU",
+    "Alpha3": "LUX",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+352",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 442,
+    "Name": {
+      "en": "Luxembourg",
+      "pl": "Luksemburg",
+      "ru": "Люксембург",
+      "uk": "Люксембург"
+    }
+  },
+  {
+    "Alpha2": "MO",
+    "Alpha3": "MAC",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/63/Flag_of_Macau.svg",
+    "Currency": "MOP",
+    "PhoneCode": "+853",
+    "TimeZone": "UTC+08:00 (Macau Standard Time)",
+    "Code": 446,
+    "Name": {
+      "en": "Macao",
+      "pl": "Makau",
+      "ru": "Макао",
+      "uk": "Макао"
+    }
+  },
+  {
+    "Alpha2": "MG",
+    "Alpha3": "MDG",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
+    "Currency": "MGA",
+    "PhoneCode": "+261[14]",
+    "TimeZone": "UTC+3 (EAT)",
+    "Code": 450,
+    "Name": {
+      "en": "Madagascar",
+      "pl": "Madagaskar",
+      "ru": "Мадагаскар",
+      "uk": "Мадагаскар"
+    }
+  },
+  {
+    "Alpha2": "MW",
+    "Alpha3": "MWI",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+    "Currency": "MWK",
+    "PhoneCode": "+265[8]",
+    "TimeZone": "UTC+2 (CAT)",
+    "Code": 454,
+    "Name": {
+      "en": "Malawi",
+      "pl": "Malawi",
+      "ru": "Малави",
+      "uk": "Малаві"
+    }
+  },
+  {
+    "Alpha2": "MY",
+    "Alpha3": "MYS",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+    "Currency": "MYR",
+    "PhoneCode": "+60",
+    "TimeZone": "UTC+8 (MST)",
+    "Code": 458,
+    "Name": {
+      "en": "Malaysia",
+      "pl": "Malezja",
+      "ru": "Малайзия",
+      "uk": "Малайзія"
+    }
+  },
+  {
+    "Alpha2": "MV",
+    "Alpha3": "MDV",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+    "Currency": "MVR",
+    "PhoneCode": "+960",
+    "TimeZone": "UTC+5 (Maldives Time)",
+    "Code": 462,
+    "Name": {
+      "en": "Maldives",
+      "pl": "Malediwy",
+      "ru": "Мальдивы",
+      "uk": "Мальдіви"
+    }
+  },
+  {
+    "Alpha2": "ML",
+    "Alpha3": "MLI",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+    "Currency": "XOF",
+    "PhoneCode": "+223",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 466,
+    "Name": {
+      "en": "Mali",
+      "pl": "Mali",
+      "ru": "Мали",
+      "uk": "Малі"
+    }
+  },
+  {
+    "Alpha2": "MT",
+    "Alpha3": "MLT",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+356",
+    "TimeZone": "UTC+1 (Central European Time)",
+    "Code": 470,
+    "Name": {
+      "en": "Malta",
+      "pl": "Malta",
+      "ru": "Мальта",
+      "uk": "Мальта"
+    }
+  },
+  {
+    "Alpha2": "MQ",
+    "Alpha3": "MTQ",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "TimeZone": "UTC-04:00 (ECT)",
+    "Code": 474,
+    "Name": {
+      "en": "Martinique",
+      "pl": "Martynika",
+      "ru": "Мартиника",
+      "uk": "Мартиніка"
+    }
+  },
+  {
+    "Alpha2": "MR",
+    "Alpha3": "MRT",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
+    "Currency": "MRU",
+    "PhoneCode": "+222",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 478,
+    "Name": {
+      "en": "Mauritania",
+      "pl": "Mauretania",
+      "ru": "Мавритания",
+      "uk": "Мавританія"
+    }
+  },
+  {
+    "Alpha2": "MU",
+    "Alpha3": "MUS",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg",
+    "Currency": "MUR",
+    "PhoneCode": "+230",
+    "TimeZone": "UTC+4 (MUT)",
+    "Code": 480,
+    "Name": {
+      "en": "Mauritius",
+      "pl": "Mauritius",
+      "ru": "Маврикий",
+      "uk": "Маврикій"
+    }
+  },
+  {
+    "Alpha2": "MX",
+    "Alpha3": "MEX",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+    "Currency": "MXN",
+    "PhoneCode": "+52",
+    "TimeZone": "UTC−8 to −5 (See Time in Mexico)",
+    "Code": 484,
+    "Name": {
+      "en": "Mexico",
+      "pl": "Meksyk",
+      "ru": "Мексика",
+      "uk": "Мексика"
+    }
+  },
+  {
+    "Alpha2": "MC",
+    "Alpha3": "MCO",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+377",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 492,
+    "Name": {
+      "en": "Monaco",
+      "pl": "Monako",
+      "ru": "Монако",
+      "uk": "Монако"
+    }
+  },
+  {
+    "Alpha2": "MN",
+    "Alpha3": "MNG",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
+    "Currency": "MNT",
+    "PhoneCode": "+976",
+    "TimeZone": "UTC+7/+8[12]",
+    "Code": 496,
+    "Name": {
+      "en": "Mongolia",
+      "pl": "Mongolia",
+      "ru": "Монголия",
+      "uk": "Монголія"
+    }
+  },
+  {
+    "Alpha2": "MD",
+    "Alpha3": "MDA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
+    "Currency": "MDL",
+    "PhoneCode": "+373",
+    "TimeZone": "UTC+2 (EET)",
+    "Code": 498,
+    "Name": {
+      "en": "Moldova, Republic of",
+      "pl": "Mołdawia",
+      "ru": "Молдавия",
+      "uk": "Молдова"
+    }
+  },
+  {
+    "Alpha2": "ME",
+    "Alpha3": "MNE",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+382",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 499,
+    "Name": {
+      "en": "Montenegro",
+      "pl": "Czarnogóra",
+      "ru": "Черногория",
+      "uk": "Чорногорія"
+    }
+  },
+  {
+    "Alpha2": "MS",
+    "Alpha3": "MSR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Montserrat.svg",
+    "Currency": "XCD",
+    "PhoneCode": "+1-664",
+    "TimeZone": "UTC-4:00 (AST)",
+    "Code": 500,
+    "Name": {
+      "en": "Montserrat",
+      "pl": "Montserrat",
+      "ru": "Монтсеррат",
+      "uk": "Монтсеррат"
+    }
+  },
+  {
+    "Alpha2": "MA",
+    "Alpha3": "MAR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+    "Currency": "MAD",
+    "PhoneCode": "+212",
+    "TimeZone": "UTC+1[13]",
+    "Code": 504,
+    "Name": {
+      "en": "Morocco",
+      "pl": "Maroko",
+      "ru": "Марокко",
+      "uk": "Марокко"
+    }
+  },
+  {
+    "Alpha2": "MZ",
+    "Alpha3": "MOZ",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+    "Currency": "MZN",
+    "PhoneCode": "+258",
+    "TimeZone": "UTC+2 (CAT)",
+    "Code": 508,
+    "Name": {
+      "en": "Mozambique",
+      "pl": "Mozambik",
+      "ru": "Мозамбик",
+      "uk": "Мозамбік"
+    }
+  },
+  {
+    "Alpha2": "OM",
+    "Alpha3": "OMN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+    "Currency": "OMR",
+    "PhoneCode": "+968",
+    "TimeZone": "UTC+4 (GST)",
+    "Code": 512,
+    "Name": {
+      "en": "Oman",
+      "pl": "Oman",
+      "ru": "Оман",
+      "uk": "Оман"
+    }
+  },
+  {
+    "Alpha2": "NA",
+    "Alpha3": "NAM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
+    "Currency": "ZAR",
+    "PhoneCode": "+264",
+    "TimeZone": "UTC+2 (CAST)",
+    "Code": 516,
+    "Name": {
+      "en": "Namibia",
+      "pl": "Namibia",
+      "ru": "Намибия",
+      "uk": "Намібія"
+    }
+  },
+  {
+    "Alpha2": "NR",
+    "Alpha3": "NRU",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
+    "Currency": "AUD",
+    "PhoneCode": "+674",
+    "TimeZone": "UTC+12[8]",
+    "Code": 520,
+    "Name": {
+      "en": "Nauru",
+      "pl": "Nauru",
+      "ru": "Науру",
+      "uk": "Науру"
+    }
+  },
+  {
+    "Alpha2": "NP",
+    "Alpha3": "NPL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+    "Currency": "NPR",
+    "PhoneCode": "+977",
+    "TimeZone": "UTC+05:45 (Nepal Standard Time)",
+    "Code": 524,
+    "Name": {
+      "en": "Nepal",
+      "pl": "Nepal",
+      "ru": "Непал",
+      "uk": "Непал"
+    }
+  },
+  {
+    "Alpha2": "NL",
+    "Alpha3": "NLD",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+    "Currency": "EUR",
+    "PhoneCode": "4 codes\n +31      (Netherlands)\n   +297    (Aruba)\n   +599    (Curaçao / Caribbean)\n   +1 721 (Sint Maarten)",
+    "TimeZone": "UTC-4 (CET (UTC+1)AST)",
+    "Code": 528,
+    "Name": {
+      "en": "Netherlands",
+      "pl": "Holandia",
+      "ru": "Королевство Нидерландов",
+      "uk": "Королівство Нідерландів"
+    }
+  },
+  {
+    "Alpha2": "CW",
+    "Alpha3": "CUW",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_Cura%C3%A7ao.svg",
+    "Currency": "ANG",
+    "PhoneCode": "+5999",
+    "TimeZone": "UTC-4:00 (AST)",
+    "Code": 531,
+    "Name": {
+      "en": "Curaçao",
+      "pl": "Curaçao",
+      "ru": "Кюрасао",
+      "uk": "Кюрасао"
+    }
+  },
+  {
+    "Alpha2": "AW",
+    "Alpha3": "ABW",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg",
+    "Currency": "AWG",
+    "PhoneCode": "+297",
+    "TimeZone": "UTC-4:00 (AST)",
+    "Code": 533,
+    "Name": {
+      "en": "Aruba",
+      "pl": "Aruba",
+      "ru": "Аруба",
+      "uk": "Аруба"
+    }
+  },
+  {
+    "Alpha2": "SX",
+    "Alpha3": "SXM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Sint_Maarten.svg",
+    "Currency": "ANG",
+    "PhoneCode": "+1-721",
+    "TimeZone": "UTC-4:00 (AST)",
+    "Code": 534,
+    "Name": {
+      "en": "Sint Maarten (Dutch part)",
+      "pl": "Sint Maarten (terytorium)",
+      "ru": "Синт-Мартен",
+      "uk": "Сінт-Мартен"
+    }
+  },
+  {
+    "Alpha2": "BQ",
+    "Alpha3": "BES",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+    "Currency": "USD",
+    "PhoneCode": "+599",
+    "TimeZone": "UTC−4 (AST)",
+    "Code": 535,
+    "Name": {
+      "en": "Bonaire, Sint Eustatius and Saba[a]",
+      "pl": "Holandia Karaibska",
+      "ru": "Бонайре, Синт-Эстатиус и Саба",
+      "uk": "Карибські Нідерланди"
+    }
+  },
+  {
+    "Alpha2": "NC",
+    "Alpha3": "NCL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/26/Flags_of_New_Caledonia.svg",
+    "Currency": "XPF",
+    "PhoneCode": "+687",
+    "TimeZone": "UTC+11:00",
+    "Code": 540,
+    "Name": {
+      "en": "New Caledonia",
+      "pl": "Nowa Kaledonia",
+      "ru": "Новая Каледония",
+      "uk": "Нова Каледонія"
+    }
+  },
+  {
+    "Alpha2": "VU",
+    "Alpha3": "VUT",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+    "Currency": "VUV",
+    "PhoneCode": "+678",
+    "TimeZone": "UTC+11 (VUT (Vanuatu Time))",
+    "Code": 548,
+    "Name": {
+      "en": "Vanuatu",
+      "pl": "Vanuatu",
+      "ru": "Вануату",
+      "uk": "Вануату"
+    }
+  },
+  {
+    "Alpha2": "NZ",
+    "Alpha3": "NZL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+    "Currency": "NZD",
+    "PhoneCode": "+64",
+    "TimeZone": "UTC+12 (NZST[n 5])",
+    "Code": 554,
+    "Name": {
+      "en": "New Zealand",
+      "pl": "Nowa Zelandia",
+      "ru": "Новая Зеландия",
+      "uk": "Нова Зеландія"
+    }
+  },
+  {
+    "Alpha2": "NI",
+    "Alpha3": "NIC",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+    "Currency": "NIO",
+    "PhoneCode": "+505",
+    "TimeZone": "UTC−6 (CST)",
+    "Code": 558,
+    "Name": {
+      "en": "Nicaragua",
+      "pl": "Nikaragua",
+      "ru": "Никарагуа",
+      "uk": "Нікарагуа"
+    }
+  },
+  {
+    "Alpha2": "NE",
+    "Alpha3": "NER",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+    "Currency": "XOF",
+    "PhoneCode": "+227",
+    "TimeZone": "UTC+1 (WAT)",
+    "Code": 562,
+    "Name": {
+      "en": "Niger",
+      "pl": "Niger",
+      "ru": "Нигер",
+      "uk": "Нігер"
+    }
+  },
+  {
+    "Alpha2": "NG",
+    "Alpha3": "NGA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+    "Currency": "NGN",
+    "PhoneCode": "+234",
+    "TimeZone": "UTC+01:00 (WAT)",
+    "Code": 566,
+    "Name": {
+      "en": "Nigeria",
+      "pl": "Nigeria",
+      "ru": "Нигерия",
+      "uk": "Нігерія"
+    }
+  },
+  {
+    "Alpha2": "NU",
+    "Alpha3": "NIU",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Niue.svg",
+    "Currency": "NZD",
+    "PhoneCode": "+683",
+    "TimeZone": "UTC−11",
+    "Code": 570,
+    "Name": {
+      "en": "Niue",
+      "pl": "Niue",
+      "ru": "Ниуэ",
+      "uk": "Ніуе"
+    }
+  },
+  {
+    "Alpha2": "NF",
+    "Alpha3": "NFK",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Norfolk_Island.svg",
+    "Currency": "AUD",
+    "PhoneCode": "+672",
+    "TimeZone": "UTC+11:00 (NFT)",
+    "Code": 574,
+    "Name": {
+      "en": "Norfolk Island",
+      "pl": "Norfolk (terytorium)",
+      "ru": "Остров Норфолк",
+      "uk": "Острів Норфолк"
+    }
+  },
+  {
+    "Alpha2": "NO",
+    "Alpha3": "NOR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+    "Currency": "NOK",
+    "PhoneCode": "+47",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 578,
+    "Name": {
+      "en": "Norway",
+      "pl": "Norwegia",
+      "ru": "Норвегия",
+      "uk": "Норвегія"
+    }
+  },
+  {
+    "Alpha2": "MP",
+    "Alpha3": "MNP",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_the_Northern_Mariana_Islands.svg",
+    "Currency": "USD",
+    "PhoneCode": "+1-670",
+    "TimeZone": "UTC+10:00 (ChST)",
+    "Code": 580,
+    "Name": {
+      "en": "Northern Mariana Islands",
+      "pl": "Mariany Północne",
+      "ru": "Северные Марианские Острова",
+      "uk": "Північні Маріанські Острови"
+    }
+  },
+  {
+    "Alpha2": "UM",
+    "Alpha3": "UMI",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+    "Currency": "USD",
+    "TimeZone": "UTC−12 to −10, −5, +12",
+    "Code": 581,
+    "Name": {
+      "en": "United States Minor Outlying Islands[e]",
+      "pl": "Dalekie Wyspy Mniejsze Stanów Zjednoczonych",
+      "ru": "Внешние малые острова США",
+      "uk": "Зовнішні малі острови США"
+    }
+  },
+  {
+    "Alpha2": "FM",
+    "Alpha3": "FSM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+    "Currency": "USD",
+    "PhoneCode": "+691",
+    "TimeZone": "UTC+10 and +11",
+    "Code": 583,
+    "Name": {
+      "en": "Micronesia (Federated States of)",
+      "pl": "Mikronezja",
+      "ru": "Федеративные Штаты Микронезии",
+      "uk": "Федеративні Штати Мікронезії"
+    }
+  },
+  {
+    "Alpha2": "MH",
+    "Alpha3": "MHL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg",
+    "Currency": "USD",
+    "PhoneCode": "+692",
+    "TimeZone": "UTC+12 (MHT)",
+    "Code": 584,
+    "Name": {
+      "en": "Marshall Islands",
+      "pl": "Wyspy Marshalla",
+      "ru": "Маршалловы Острова",
+      "uk": "Маршаллові Острови"
+    }
+  },
+  {
+    "Alpha2": "PW",
+    "Alpha3": "PLW",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+    "Currency": "USD",
+    "PhoneCode": "+680",
+    "TimeZone": "UTC+9 (PWT)",
+    "Code": 585,
+    "Name": {
+      "en": "Palau",
+      "pl": "Palau",
+      "ru": "Палау",
+      "uk": "Палау"
+    }
+  },
+  {
+    "Alpha2": "PK",
+    "Alpha3": "PAK",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+    "Currency": "PKR",
+    "PhoneCode": "+92",
+    "TimeZone": "UTC+05:00 (PST)",
+    "Code": 586,
+    "Name": {
+      "en": "Pakistan",
+      "pl": "Pakistan",
+      "ru": "Пакистан",
+      "uk": "Пакистан"
+    }
+  },
+  {
+    "Alpha2": "PA",
+    "Alpha3": "PAN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
+    "Currency": "USD",
+    "PhoneCode": "+507",
+    "TimeZone": "UTC−5 (EST)",
+    "Code": 591,
+    "Name": {
+      "en": "Panama",
+      "pl": "Panama",
+      "ru": "Панама",
+      "uk": "Панама"
+    }
+  },
+  {
+    "Alpha2": "PG",
+    "Alpha3": "PNG",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+    "Currency": "PGK",
+    "PhoneCode": "+675",
+    "TimeZone": "UTC+10, +11 (AEST)",
+    "Code": 598,
+    "Name": {
+      "en": "Papua New Guinea",
+      "pl": "Papua-Nowa Gwinea",
+      "ru": "Папуа — Новая Гвинея",
+      "uk": "Папуа Нова Гвінея"
+    }
+  },
+  {
+    "Alpha2": "PY",
+    "Alpha3": "PRY",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg",
+    "Currency": "PYG",
+    "PhoneCode": "+595",
+    "TimeZone": "UTC–4 (PYT)",
+    "Code": 600,
+    "Name": {
+      "en": "Paraguay",
+      "pl": "Paragwaj",
+      "ru": "Парагвай",
+      "uk": "Парагвай"
+    }
+  },
+  {
+    "Alpha2": "PE",
+    "Alpha3": "PER",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg",
+    "Currency": "PEN",
+    "PhoneCode": "+51",
+    "TimeZone": "UTC−5 (PET)",
+    "Code": 604,
+    "Name": {
+      "en": "Peru",
+      "pl": "Peru",
+      "ru": "Перу",
+      "uk": "Перу"
+    }
+  },
+  {
+    "Alpha2": "PH",
+    "Alpha3": "PHL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+    "Currency": "PHP",
+    "PhoneCode": "+63",
+    "TimeZone": "UTC+8 (PST)",
+    "Code": 608,
+    "Name": {
+      "en": "Philippines",
+      "pl": "Filipiny",
+      "ru": "Филиппины",
+      "uk": "Філіппіни"
+    }
+  },
+  {
+    "Alpha2": "PN",
+    "Alpha3": "PCN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_the_Pitcairn_Islands.svg",
+    "Currency": "NZD",
+    "PhoneCode": "+64",
+    "TimeZone": "UTC-08:00",
+    "Code": 612,
+    "Name": {
+      "en": "Pitcairn",
+      "pl": "Pitcairn",
+      "ru": "Острова Питкэрн",
+      "uk": "Піткерн"
+    }
+  },
+  {
+    "Alpha2": "PL",
+    "Alpha3": "POL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+    "Currency": "PLN",
+    "PhoneCode": "+48",
+    "TimeZone": "UTC+1 (CET)",
+    "Subdivisions": [
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/4b/POL_wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie_flag.svg",
+        "Code": "PL-02",
+        "Name": {
+          "en": "Lower Silesia",
+          "pl": "Dolnośląskie",
+          "ru": "Нижнесилезское",
+          "uk": "Нижньосілезьке"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/a/a2/POL_wojew%C3%B3dztwo_kujawsko-pomorskie_flag.svg",
+        "Code": "PL-04",
+        "Name": {
+          "en": "Kuyavia-Pomerania",
+          "pl": "Kujawsko-pomorskie",
+          "ru": "Куявско-Поморское",
+          "uk": "Куявсько-Поморське"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/70/POL_wojew%C3%B3dztwo_lubelskie_flag.svg",
+        "Code": "PL-06",
+        "Name": {
+          "en": "Lublin",
+          "pl": "Lubelskie",
+          "ru": "Люблинское",
+          "uk": "Люблінське"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/01/POL_wojew%C3%B3dztwo_lubuskie_flag.svg",
+        "Code": "PL-08",
+        "Name": {
+          "en": "Lubusz",
+          "pl": "Lubuskie",
+          "ru": "Любушское",
+          "uk": "Любуське"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/5b/POL_wojew%C3%B3dztwo_%C5%82%C3%B3dzkie_1_flag.svg",
+        "Code": "PL-10",
+        "Name": {
+          "en": "Łódź",
+          "pl": "Łódzkie",
+          "ru": "Лодзинское",
+          "uk": "Лодзинське"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/80/POL_wojew%C3%B3dztwo_ma%C5%82opolskie_flag.svg",
+        "Code": "PL-12",
+        "Name": {
+          "en": "Lesser Poland",
+          "pl": "Małopolskie",
+          "ru": "Малопольское",
+          "uk": "Малопольське"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/33/POL_wojew%C3%B3dztwo_mazowieckie_flag.svg",
+        "Code": "PL-14",
+        "Name": {
+          "en": "Mazovia",
+          "pl": "Mazowieckie",
+          "ru": "Мазовецкое",
+          "uk": "Мазовецьке"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/a/a0/POL_wojew%C3%B3dztwo_opolskie_flag.svg",
+        "Code": "PL-16",
+        "Name": {
+          "en": "Opole (Upper Silesia)",
+          "pl": "Opolskie",
+          "ru": "Опольское",
+          "uk": "Опольське"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/94/POL_wojew%C3%B3dztwo_podkarpackie_flag.svg",
+        "Code": "PL-18",
+        "Name": {
+          "en": "Subcarpathia",
+          "pl": "Podkarpackie",
+          "ru": "Подкарпатское",
+          "uk": "Підкарпатське"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/41/POL_wojew%C3%B3dztwo_podlaskie_flag.svg",
+        "Code": "PL-20",
+        "Name": {
+          "en": "Podlaskie",
+          "pl": "Podlaskie",
+          "ru": "Подляское",
+          "uk": "Підляське"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/5c/POL_wojew%C3%B3dztwo_pomorskie_flag.svg",
+        "Code": "PL-22",
+        "Name": {
+          "en": "Pomerania",
+          "pl": "Pomorskie",
+          "ru": "Поморское воеводство",
+          "uk": "Поморське"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/5b/POL_wojew%C3%B3dztwo_%C5%9Bl%C4%85skie_flag.svg",
+        "Code": "PL-24",
+        "Name": {
+          "en": "Silesia",
+          "pl": "Śląskie",
+          "ru": "Силезское",
+          "uk": "Сілезьке"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/69/POL_wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie_flag.svg",
+        "Code": "PL-26",
+        "Name": {
+          "en": "Holy Cross",
+          "pl": "Świętokrzyskie",
+          "ru": "Свентокшиское",
+          "uk": "Свентокшиське"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/de/POL_wojew%C3%B3dztwo_warmi%C5%84sko-mazurskie_flag.svg",
+        "Code": "PL-28",
+        "Name": {
+          "en": "Warmia-Masuria",
+          "pl": "Warmińsko-mazurskie",
+          "ru": "Варминьско-Мазурское",
+          "uk": "Вармінсько-Мазурське"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/9b/POL_wojew%C3%B3dztwo_wielkopolskie_flag.svg",
+        "Code": "PL-30",
+        "Name": {
+          "en": "Greater Poland",
+          "pl": "Wielkopolskie",
+          "ru": "Великопольское",
+          "uk": "Великопольське"
+        }
+      },
+      {
+        "Category": {
+          "en": "voivodeships",
+          "pl": "województwo",
+          "ru": "воеводство",
+          "uk": "воєводство"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/37/POL_wojew%C3%B3dztwo_zachodniopomorskie_flag.svg",
+        "Code": "PL-32",
+        "Name": {
+          "en": "West Pomerania",
+          "pl": "Zachodniopomorskie",
+          "ru": "Западно-Поморское воеводство",
+          "uk": "Західнопоморське"
+        }
+      }
+    ],
+    "Code": 616,
+    "Name": {
+      "en": "Poland",
+      "pl": "Polska",
+      "ru": "Польша",
+      "uk": "Польща"
+    }
+  },
+  {
+    "Alpha2": "PT",
+    "Alpha3": "PRT",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+351",
+    "TimeZone": "UTC  (WET) UTC−1 (Atlantic/Azores)",
+    "Code": 620,
+    "Name": {
+      "en": "Portugal",
+      "pl": "Portugalia",
+      "ru": "Португалия",
+      "uk": "Португалія"
+    }
+  },
+  {
+    "Alpha2": "GW",
+    "Alpha3": "GNB",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
+    "Currency": "XOF",
+    "PhoneCode": "+245",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 624,
+    "Name": {
+      "en": "Guinea-Bissau",
+      "pl": "Gwinea Bissau",
+      "ru": "Гвинея-Бисау",
+      "uk": "Гвінея-Бісау"
+    }
+  },
+  {
+    "Alpha2": "TL",
+    "Alpha3": "TLS",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg",
+    "Currency": "USD",
+    "PhoneCode": "+670",
+    "TimeZone": "UTC+9",
+    "Code": 626,
+    "Name": {
+      "en": "Timor-Leste",
+      "pl": "Timor Wschodni",
+      "ru": "Восточный Тимор",
+      "uk": "Східний Тимор"
+    }
+  },
+  {
+    "Alpha2": "PR",
+    "Alpha3": "PRI",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg",
+    "Currency": "USD",
+    "PhoneCode": "+1 (787), +1 (939)",
+    "TimeZone": "UTC-04:00 (AST)",
+    "Code": 630,
+    "Name": {
+      "en": "Puerto Rico",
+      "pl": "Portoryko",
+      "ru": "Пуэрто-Рико",
+      "uk": "Пуерто-Рико"
+    }
+  },
+  {
+    "Alpha2": "QA",
+    "Alpha3": "QAT",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+    "Currency": "QAR",
+    "PhoneCode": "+974",
+    "TimeZone": "UTC+3 (AST)",
+    "Code": 634,
+    "Name": {
+      "en": "Qatar",
+      "pl": "Katar",
+      "ru": "Катар",
+      "uk": "Катар"
+    }
+  },
+  {
+    "Alpha2": "RE",
+    "Alpha3": "REU",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "TimeZone": "UTC+04:00 (RET)",
+    "Code": 638,
+    "Name": {
+      "en": "Réunion",
+      "pl": "Reunion",
+      "ru": "Реюньон",
+      "uk": "Реюньйон"
+    }
+  },
+  {
+    "Alpha2": "RO",
+    "Alpha3": "ROU",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+    "Currency": "RON",
+    "PhoneCode": "+40",
+    "TimeZone": "UTC+2 (EET)",
+    "Code": 642,
+    "Name": {
+      "en": "Romania",
+      "pl": "Rumunia",
+      "ru": "Румыния",
+      "uk": "Румунія"
+    }
+  },
+  {
+    "Alpha2": "RU",
+    "Alpha3": "RUS",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+    "Currency": "RUB",
+    "PhoneCode": "+7",
+    "TimeZone": "UTC+2 to +12",
+    "Code": 643,
+    "Name": {
+      "en": "Russian Federation",
+      "pl": "Rosja",
+      "ru": "Россия",
+      "uk": "Росія"
+    }
+  },
+  {
+    "Alpha2": "RW",
+    "Alpha3": "RWA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
+    "Currency": "RWF",
+    "PhoneCode": "+250",
+    "TimeZone": "UTC+2 (CAT)",
+    "Code": 646,
+    "Name": {
+      "en": "Rwanda",
+      "pl": "Rwanda",
+      "ru": "Руанда",
+      "uk": "Руанда"
+    }
+  },
+  {
+    "Alpha2": "BL",
+    "Alpha3": "BLM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+590",
+    "TimeZone": "UTC-4:00 (AST)",
+    "Code": 652,
+    "Name": {
+      "en": "Saint Barthélemy",
+      "pl": "Saint-Barthélemy",
+      "ru": "Сен-Бартелеми (Карибы)",
+      "uk": "Сен-Бартельмі"
+    }
+  },
+  {
+    "Alpha2": "SH",
+    "Alpha3": "SHN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+    "Currency": "SHP",
+    "PhoneCode": "+290 (Saint Helena and Tristan da Cunha)+247 (Ascension)+44 20 (Tristan da Cunha)",
+    "TimeZone": "UTC±00:00 (GMT)",
+    "Code": 654,
+    "Name": {
+      "en": "Saint Helena, Ascension and Tristan da Cunha[b]",
+      "pl": "Wyspa Świętej Heleny, Wyspa Wniebowstąpienia i Tristan da Cunha",
+      "ru": "Острова Святой Елены, Вознесения и Тристан-да-Кунья",
+      "uk": "Острови Святої Єлени, Вознесіння і Тристан-да-Кунья"
+    }
+  },
+  {
+    "Alpha2": "KN",
+    "Alpha3": "KNA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
+    "Currency": "XCD",
+    "PhoneCode": "+1 869",
+    "TimeZone": "UTC-4 (AST)",
+    "Code": 659,
+    "Name": {
+      "en": "Saint Kitts and Nevis",
+      "pl": "Saint Kitts i Nevis",
+      "ru": "Сент-Китс и Невис",
+      "uk": "Сент-Кіттс і Невіс"
+    }
+  },
+  {
+    "Alpha2": "AI",
+    "Alpha3": "AIA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
+    "Currency": "XCD",
+    "PhoneCode": "+1-264",
+    "TimeZone": "UTC–4 (AST)",
+    "Code": 660,
+    "Name": {
+      "en": "Anguilla",
+      "pl": "Anguilla",
+      "ru": "Ангилья",
+      "uk": "Ангілья"
+    }
+  },
+  {
+    "Alpha2": "LC",
+    "Alpha3": "LCA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
+    "Currency": "XCD",
+    "PhoneCode": "+1 758",
+    "TimeZone": "UTC−4 (AST)",
+    "Code": 662,
+    "Name": {
+      "en": "Saint Lucia",
+      "pl": "Saint Lucia",
+      "ru": "Сент-Люсия",
+      "uk": "Сент-Люсія"
+    }
+  },
+  {
+    "Alpha2": "MF",
+    "Alpha3": "MAF",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "Currency": "USD",
+    "PhoneCode": "+590",
+    "TimeZone": "UTC-4:00 (AST)",
+    "Code": 663,
+    "Name": {
+      "en": "Saint Martin (French part)",
+      "pl": "Saint-Martin",
+      "ru": "Сен-Мартен (владение Франции)",
+      "uk": "Сен-Мартен (Франція)"
+    }
+  },
+  {
+    "Alpha2": "PM",
+    "Alpha3": "SPM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "Currency": "CAD",
+    "PhoneCode": "+508",
+    "TimeZone": "UTC−03:00",
+    "Code": 666,
+    "Name": {
+      "en": "Saint Pierre and Miquelon",
+      "pl": "Saint-Pierre i Miquelon",
+      "ru": "Сен-Пьер и Микелон",
+      "uk": "Сен-П&#039;єр і Мікелон"
+    }
+  },
+  {
+    "Alpha2": "VC",
+    "Alpha3": "VCT",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+    "Currency": "XCD",
+    "PhoneCode": "+1 784",
+    "TimeZone": "UTC-4 (AST)",
+    "Code": 670,
+    "Name": {
+      "en": "Saint Vincent and the Grenadines",
+      "pl": "Saint Vincent i Grenadyny",
+      "ru": "Сент-Винсент и Гренадины",
+      "uk": "Сент-Вінсент і Гренадини"
+    }
+  },
+  {
+    "Alpha2": "SM",
+    "Alpha3": "SMR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+378 (+39 0549 calling via Italy)",
+    "TimeZone": "UTC+01 (CET)",
+    "Code": 674,
+    "Name": {
+      "en": "San Marino",
+      "pl": "San Marino",
+      "ru": "Сан-Марино",
+      "uk": "Сан-Марино"
+    }
+  },
+  {
+    "Alpha2": "ST",
+    "Alpha3": "STP",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg",
+    "Currency": "STN",
+    "PhoneCode": "+239",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 678,
+    "Name": {
+      "en": "Sao Tome and Principe",
+      "pl": "Wyspy Świętego Tomasza i Książęca",
+      "ru": "Сан-Томе и Принсипи",
+      "uk": "Сан-Томе і Принсіпі"
+    }
+  },
+  {
+    "Alpha2": "SA",
+    "Alpha3": "SAU",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+    "Currency": "SAR",
+    "PhoneCode": "+966",
+    "TimeZone": "UTC+3 (AST)",
+    "Code": 682,
+    "Name": {
+      "en": "Saudi Arabia",
+      "pl": "Arabia Saudyjska",
+      "ru": "Саудовская Аравия",
+      "uk": "Саудівська Аравія"
+    }
+  },
+  {
+    "Alpha2": "SN",
+    "Alpha3": "SEN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+    "Currency": "XOF",
+    "PhoneCode": "+221",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 686,
+    "Name": {
+      "en": "Senegal",
+      "pl": "Senegal",
+      "ru": "Сенегал",
+      "uk": "Сенегал"
+    }
+  },
+  {
+    "Alpha2": "RS",
+    "Alpha3": "SRB",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+    "Currency": "RSD",
+    "PhoneCode": "+381",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 688,
+    "Name": {
+      "en": "Serbia",
+      "pl": "Serbia",
+      "ru": "Сербия",
+      "uk": "Сербія"
+    }
+  },
+  {
+    "Alpha2": "SC",
+    "Alpha3": "SYC",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
+    "Currency": "SCR",
+    "PhoneCode": "+248",
+    "TimeZone": "UTC+4 (SCT)",
+    "Code": 690,
+    "Name": {
+      "en": "Seychelles",
+      "pl": "Seszele",
+      "ru": "Сейшельские Острова",
+      "uk": "Сейшельські Острови"
+    }
+  },
+  {
+    "Alpha2": "SL",
+    "Alpha3": "SLE",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+    "Currency": "SLL",
+    "PhoneCode": "+232",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 694,
+    "Name": {
+      "en": "Sierra Leone",
+      "pl": "Sierra Leone",
+      "ru": "Сьерра-Леоне",
+      "uk": "Сьєрра-Леоне"
+    }
+  },
+  {
+    "Alpha2": "SG",
+    "Alpha3": "SGP",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+    "Currency": "SGD",
+    "PhoneCode": "+65",
+    "TimeZone": "UTC+8 (Singapore Standard Time)",
+    "Code": 702,
+    "Name": {
+      "en": "Singapore",
+      "pl": "Singapur",
+      "ru": "Сингапур",
+      "uk": "Сінгапур"
+    }
+  },
+  {
+    "Alpha2": "SK",
+    "Alpha3": "SVK",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+421b",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 703,
+    "Name": {
+      "en": "Slovakia",
+      "pl": "Słowacja",
+      "ru": "Словакия",
+      "uk": "Словаччина"
+    }
+  },
+  {
+    "Alpha2": "VN",
+    "Alpha3": "VNM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
+    "Currency": "VND",
+    "PhoneCode": "+84",
+    "TimeZone": "UTC+07:00 (Vietnam Standard Time)",
+    "Code": 704,
+    "Name": {
+      "en": "Viet Nam",
+      "pl": "Wietnam",
+      "ru": "Вьетнам",
+      "uk": "В&#039;єтнам"
+    }
+  },
+  {
+    "Alpha2": "SI",
+    "Alpha3": "SVN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+386",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 705,
+    "Name": {
+      "en": "Slovenia",
+      "pl": "Słowenia",
+      "ru": "Словения",
+      "uk": "Словенія"
+    }
+  },
+  {
+    "Alpha2": "SO",
+    "Alpha3": "SOM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
+    "Currency": "SOS",
+    "PhoneCode": "+252",
+    "TimeZone": "UTC+3 (EAT)",
+    "Code": 706,
+    "Name": {
+      "en": "Somalia",
+      "pl": "Somalia",
+      "ru": "Сомали",
+      "uk": "Сомалі"
+    }
+  },
+  {
+    "Alpha2": "ZA",
+    "Alpha3": "ZAF",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+    "Currency": "ZAR",
+    "PhoneCode": "+27",
+    "TimeZone": "UTC+2 (SAST)",
+    "Code": 710,
+    "Name": {
+      "en": "South Africa",
+      "pl": "Południowa Afryka",
+      "ru": "Южно-Африканская Республика",
+      "uk": "Південно-Африканська Республіка"
+    }
+  },
+  {
+    "Alpha2": "ES",
+    "Alpha3": "ESP",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+    "Currency": "EUR",
+    "PhoneCode": "+34",
+    "TimeZone": "UTC⁠±0 to +1 (WET and CET)",
+    "Code": 724,
+    "Name": {
+      "en": "Spain",
+      "pl": "Hiszpania",
+      "ru": "Испания",
+      "uk": "Іспанія"
+    }
+  },
+  {
+    "Alpha2": "SS",
+    "Alpha3": "SSD",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg",
+    "Currency": "SSP",
+    "PhoneCode": "+211[17]",
+    "TimeZone": "UTC+2 (Central Africa Time)",
+    "Code": 728,
+    "Name": {
+      "en": "South Sudan",
+      "pl": "Sudan Południowy",
+      "ru": "Южный Судан",
+      "uk": "Південний Судан"
+    }
+  },
+  {
+    "Alpha2": "SD",
+    "Alpha3": "SDN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+    "Currency": "SDG",
+    "PhoneCode": "+249",
+    "TimeZone": "UTC+2 (CAT)",
+    "Code": 729,
+    "Name": {
+      "en": "Sudan",
+      "pl": "Sudan",
+      "ru": "Судан",
+      "uk": "Судан"
+    }
+  },
+  {
+    "Alpha2": "EH",
+    "Alpha3": "ESH",
+    "TimeZone": "UTC+1",
+    "Code": 732,
+    "Name": {
+      "en": "Western Sahara",
+      "pl": "Sahara Zachodnia",
+      "ru": "Западная Сахара",
+      "uk": "Західна Сахара"
+    }
+  },
+  {
+    "Alpha2": "SR",
+    "Alpha3": "SUR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+    "Currency": "SRD",
+    "PhoneCode": "+597",
+    "TimeZone": "UTC-3 (SRT)",
+    "Code": 740,
+    "Name": {
+      "en": "Suriname",
+      "pl": "Surinam",
+      "ru": "Суринам",
+      "uk": "Суринам"
+    }
+  },
+  {
+    "Alpha2": "SJ",
+    "Alpha3": "SJM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+    "Code": 744,
+    "Name": {
+      "en": "Svalbard and Jan Mayen[c]",
+      "pl": "Svalbard i Jan Mayen",
+      "ru": "Шпицберген и Ян-Майен",
+      "uk": "Свальбард і Ян-Маєн"
+    }
+  },
+  {
+    "Alpha2": "SZ",
+    "Alpha3": "SWZ",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
+    "Currency": "SZL",
+    "PhoneCode": "+268",
+    "TimeZone": "UTC+2 (SAST)",
+    "Code": 748,
+    "Name": {
+      "en": "Eswatini",
+      "pl": "Eswatini",
+      "ru": "Эсватини",
+      "uk": "Есватіні"
+    }
+  },
+  {
+    "Alpha2": "SE",
+    "Alpha3": "SWE",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+    "Currency": "SEK",
+    "PhoneCode": "+46",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 752,
+    "Name": {
+      "en": "Sweden",
+      "pl": "Szwecja",
+      "ru": "Швеция",
+      "uk": "Швеція"
+    }
+  },
+  {
+    "Alpha2": "CH",
+    "Alpha3": "CHE",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+    "Currency": "CHF",
+    "PhoneCode": "+41",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 756,
+    "Name": {
+      "en": "Switzerland",
+      "pl": "Szwajcaria",
+      "ru": "Швейцария",
+      "uk": "Швейцарія"
+    }
+  },
+  {
+    "Alpha2": "SY",
+    "Alpha3": "SYR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
+    "Currency": "SYP",
+    "PhoneCode": "+963",
+    "TimeZone": "UTC+2 (EET)",
+    "Code": 760,
+    "Name": {
+      "en": "Syrian Arab Republic",
+      "pl": "Syria",
+      "ru": "Сирия",
+      "uk": "Сирія"
+    }
+  },
+  {
+    "Alpha2": "TJ",
+    "Alpha3": "TJK",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
+    "Currency": "TJS",
+    "PhoneCode": "+992",
+    "TimeZone": "UTC+5 (TJT)",
+    "Code": 762,
+    "Name": {
+      "en": "Tajikistan",
+      "pl": "Tadżykistan",
+      "ru": "Таджикистан",
+      "uk": "Таджикистан"
+    }
+  },
+  {
+    "Alpha2": "TH",
+    "Alpha3": "THA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+    "Currency": "THB",
+    "PhoneCode": "+66",
+    "TimeZone": "UTC+7 (ICT)",
+    "Code": 764,
+    "Name": {
+      "en": "Thailand",
+      "pl": "Tajlandia",
+      "ru": "Таиланд",
+      "uk": "Таїланд"
+    }
+  },
+  {
+    "Alpha2": "TG",
+    "Alpha3": "TGO",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
+    "Currency": "XOF",
+    "PhoneCode": "+228",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 768,
+    "Name": {
+      "en": "Togo",
+      "pl": "Togo",
+      "ru": "Того",
+      "uk": "Того"
+    }
+  },
+  {
+    "Alpha2": "TK",
+    "Alpha3": "TKL",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_Tokelau.svg",
+    "Currency": "NZD",
+    "PhoneCode": "+690",
+    "TimeZone": "UTC+13:00",
+    "Code": 772,
+    "Name": {
+      "en": "Tokelau",
+      "pl": "Tokelau",
+      "ru": "Токелау",
+      "uk": "Токелау"
+    }
+  },
+  {
+    "Alpha2": "TO",
+    "Alpha3": "TON",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg",
+    "Currency": "TOP",
+    "PhoneCode": "+676",
+    "TimeZone": "UTC+13",
+    "Code": 776,
+    "Name": {
+      "en": "Tonga",
+      "pl": "Tonga",
+      "ru": "Тонга",
+      "uk": "Тонга"
+    }
+  },
+  {
+    "Alpha2": "TT",
+    "Alpha3": "TTO",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+    "Currency": "TTD",
+    "PhoneCode": "+1 (868)",
+    "TimeZone": "UTC-4 (AST)",
+    "Code": 780,
+    "Name": {
+      "en": "Trinidad and Tobago",
+      "pl": "Trynidad i Tobago",
+      "ru": "Тринидад и Тобаго",
+      "uk": "Тринідад і Тобаго"
+    }
+  },
+  {
+    "Alpha2": "AE",
+    "Alpha3": "ARE",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+    "Currency": "AED",
+    "PhoneCode": "+971",
+    "TimeZone": "UTC+04:00 (United Arab Emirates Standard Time)",
+    "Code": 784,
+    "Name": {
+      "en": "United Arab Emirates",
+      "pl": "Zjednoczone Emiraty Arabskie",
+      "ru": "Объединённые Арабские Эмираты",
+      "uk": "Об&#039;єднані Арабські Емірати"
+    }
+  },
+  {
+    "Alpha2": "TN",
+    "Alpha3": "TUN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+    "Currency": "TND",
+    "PhoneCode": "+216",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 788,
+    "Name": {
+      "en": "Tunisia",
+      "pl": "Tunezja",
+      "ru": "Тунис",
+      "uk": "Туніс"
+    }
+  },
+  {
+    "Alpha2": "TR",
+    "Alpha3": "TUR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+    "Currency": "TRY",
+    "PhoneCode": "+90",
+    "TimeZone": "UTC+3 (TRT)",
+    "Code": 792,
+    "Name": {
+      "en": "Turkey",
+      "pl": "Turcja",
+      "ru": "Турция",
+      "uk": "Туреччина"
+    }
+  },
+  {
+    "Alpha2": "TM",
+    "Alpha3": "TKM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
+    "Currency": "TMT",
+    "PhoneCode": "+993",
+    "TimeZone": "UTC+05 (TMT)",
+    "Code": 795,
+    "Name": {
+      "en": "Turkmenistan",
+      "pl": "Turkmenistan",
+      "ru": "Туркмения",
+      "uk": "Туркменістан"
+    }
+  },
+  {
+    "Alpha2": "TC",
+    "Alpha3": "TCA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg",
+    "Currency": "USD",
+    "PhoneCode": "+1-649",
+    "TimeZone": "UTC-05:00 (EST)",
+    "Code": 796,
+    "Name": {
+      "en": "Turks and Caicos Islands",
+      "pl": "Turks i Caicos",
+      "ru": "Теркс и Кайкос",
+      "uk": "Острови Теркс і Кайкос"
+    }
+  },
+  {
+    "Alpha2": "TV",
+    "Alpha3": "TUV",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg",
+    "Currency": "AUD",
+    "PhoneCode": "+688",
+    "TimeZone": "UTC+12",
+    "Code": 798,
+    "Name": {
+      "en": "Tuvalu",
+      "pl": "Tuvalu",
+      "ru": "Тувалу",
+      "uk": "Тувалу"
+    }
+  },
+  {
+    "Alpha2": "UG",
+    "Alpha3": "UGA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+    "Currency": "UGX",
+    "PhoneCode": "+256a",
+    "TimeZone": "UTC+3 (EAT)",
+    "Code": 800,
+    "Name": {
+      "en": "Uganda",
+      "pl": "Uganda",
+      "ru": "Уганда",
+      "uk": "Уганда"
+    }
+  },
+  {
+    "Alpha2": "UA",
+    "Alpha3": "UKR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+    "Currency": "UAH",
+    "PhoneCode": "+380",
+    "TimeZone": "UTC+2[9] (EET)",
+    "Subdivisions": [
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Vinnytsia_Oblast.svg",
+        "Code": "UA-05",
+        "Name": {
+          "en": "Vinnytska",
+          "pl": "Winnicki",
+          "ru": "Винницкая",
+          "uk": "Вінницька"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Volyn_Oblast.svg",
+        "Code": "UA-07",
+        "Name": {
+          "en": "Volynska",
+          "pl": "Wołyński",
+          "ru": "Волынская",
+          "uk": "Волинська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Luhansk_Oblast.svg",
+        "Code": "UA-09",
+        "Name": {
+          "en": "Luhanska",
+          "pl": "Ługański",
+          "ru": "Луганская",
+          "uk": "Луганська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Dnipropetrovsk_Oblast.svg",
+        "Code": "UA-12",
+        "Name": {
+          "en": "Dnipropetrovska",
+          "pl": "Dniepropietrowski",
+          "ru": "Днепропетровская",
+          "uk": "Дніпропетровська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_Donetsk_Oblast.svg",
+        "Code": "UA-14",
+        "Name": {
+          "en": "Donetska",
+          "pl": "Doniecki",
+          "ru": "Донецкая",
+          "uk": "Донецька"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_Zhytomyr_Oblast.svg",
+        "Code": "UA-18",
+        "Name": {
+          "en": "Zhytomyrska",
+          "pl": "Żytomierski",
+          "ru": "Житомирская",
+          "uk": "Житомирська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_Transcarpathian_Oblast.svg",
+        "Code": "UA-21",
+        "Name": {
+          "en": "Zakarpatska",
+          "pl": "Zakarpacki",
+          "ru": "Закарпатская",
+          "uk": "Закарпатська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Zaporizhia_Oblast.svg",
+        "Code": "UA-23",
+        "Name": {
+          "en": "Zaporizka",
+          "pl": "Zaporoski",
+          "ru": "Запорожская",
+          "uk": "Запорізька"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/a/a2/Flag_of_Ivano-Frankivsk_Oblast.svg",
+        "Code": "UA-26",
+        "Name": {
+          "en": "Ivano-Frankivska",
+          "pl": "Iwanofrankowski",
+          "ru": "Ивано-Франковская",
+          "uk": "Івано-Франківська"
+        }
+      },
+      {
+        "Category": {
+          "en": "city",
+          "pl": "miasto",
+          "ru": "город",
+          "uk": "місто"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kyiv_Kurovskyi.svg",
+        "Code": "UA-30",
+        "Name": {
+          "en": "Kyiv",
+          "pl": "Kijów",
+          "ru": "Киев",
+          "uk": "Київ"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/b2/Flag_of_Kyiv_Oblast.svg",
+        "Code": "UA-32",
+        "Name": {
+          "en": "Kyivska",
+          "pl": "Kijowski",
+          "ru": "Киевская",
+          "uk": "Київська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Kirovohrad_Oblast.svg",
+        "Code": "UA-35",
+        "Name": {
+          "en": "Kirovohradska",
+          "pl": "Kirowogradzki",
+          "ru": "Кировоградская",
+          "uk": "Кіровоградська"
+        }
+      },
+      {
+        "Category": {
+          "en": "city",
+          "pl": "miasto",
+          "ru": "город",
+          "uk": "місто"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/1/14/Flag_of_Sevastopol.svg",
+        "Code": "UA-40",
+        "Name": {
+          "en": "Sevastopol",
+          "pl": "Sewastopol",
+          "ru": "Севастополь",
+          "uk": "Севастополь"
+        }
+      },
+      {
+        "Category": {
+          "en": "republic",
+          "pl": "autonomia",
+          "ru": "автономная республика",
+          "uk": "автономія"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Crimea.svg",
+        "Code": "UA-43",
+        "Name": {
+          "en": "Avtonomna Respublika Krym",
+          "pl": "Republika Autonomiczna Krymu",
+          "ru": "Автономная Республика Крым",
+          "uk": "Автономна Республіка Крим"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Lviv_Oblast.svg",
+        "Code": "UA-46",
+        "Name": {
+          "en": "Lvivska",
+          "pl": "Lwowski",
+          "ru": "Львовская",
+          "uk": "Львівська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/e/e1/Flag_of_Mykolaiv_Oblast.svg",
+        "Code": "UA-48",
+        "Name": {
+          "en": "Mykolaivska",
+          "pl": "Mikołajowski",
+          "ru": "Николаевская",
+          "uk": "Миколаївська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Odesa_Oblast.svg",
+        "Code": "UA-51",
+        "Name": {
+          "en": "Odeska",
+          "pl": "Odeski",
+          "ru": "Одесская",
+          "uk": "Одеська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Poltava_Oblast.svg",
+        "Code": "UA-53",
+        "Name": {
+          "en": "Poltavska",
+          "pl": "Połtawski",
+          "ru": "Полтавская",
+          "uk": "Полтавська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_Rivne_Oblast.svg",
+        "Code": "UA-56",
+        "Name": {
+          "en": "Rivnenska",
+          "pl": "Rówieński",
+          "ru": "Ровненская",
+          "uk": "Рівненська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Sumy_Oblast.svg",
+        "Code": "UA-59",
+        "Name": {
+          "en": "Sumska",
+          "pl": "Sumski",
+          "ru": "Сумская",
+          "uk": "Сумська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Ternopil_Oblast.svg",
+        "Code": "UA-61",
+        "Name": {
+          "en": "Ternopilska",
+          "pl": "Tarnopolski",
+          "ru": "Тернопольская",
+          "uk": "Тернопільська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Kharkiv_Oblast.svg",
+        "Code": "UA-63",
+        "Name": {
+          "en": "Kharkivska",
+          "pl": "Charkowski",
+          "ru": "Харьковская",
+          "uk": "Харківська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_Kherson_Oblast.svg",
+        "Code": "UA-65",
+        "Name": {
+          "en": "Khersonska",
+          "pl": "Chersoński",
+          "ru": "Херсонская",
+          "uk": "Херсонська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/37/Flag_of_Khmelnytskyi_Oblast.svg",
+        "Code": "UA-68",
+        "Name": {
+          "en": "Khmelnytska",
+          "pl": "Chmielnicki",
+          "ru": "Хмельницкая",
+          "uk": "Хмельницька"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Cherkasy_Oblast.svg",
+        "Code": "UA-71",
+        "Name": {
+          "en": "Cherkaska",
+          "pl": "Czerkaski",
+          "ru": "Черкасская",
+          "uk": "Черкаська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Chernihiv_Oblast.svg",
+        "Code": "UA-74",
+        "Name": {
+          "en": "Chernihivska",
+          "pl": "Czernihowski",
+          "ru": "Черниговская",
+          "uk": "Чернігівська"
+        }
+      },
+      {
+        "Category": {
+          "en": "region",
+          "pl": "obwód",
+          "ru": "область",
+          "uk": "область"
+        },
+        "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/a/a6/Flag_of_Chernivtsi_Oblast.svg",
+        "Code": "UA-77",
+        "Name": {
+          "en": "Chernivetska",
+          "pl": "Czerniowiecki",
+          "ru": "Черновицкая",
+          "uk": "Чернівецька"
+        }
+      }
+    ],
+    "Code": 804,
+    "Name": {
+      "en": "Ukraine",
+      "pl": "Ukraina",
+      "ru": "Украина",
+      "uk": "Україна"
+    }
+  },
+  {
+    "Alpha2": "MK",
+    "Alpha3": "MKD",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+    "Currency": "MKD",
+    "PhoneCode": "+389",
+    "TimeZone": "UTC+1 (CET)",
+    "Code": 807,
+    "Name": {
+      "en": "North Macedonia",
+      "pl": "Macedonia Północna",
+      "ru": "Северная Македония",
+      "uk": "Північна Македонія"
+    }
+  },
+  {
+    "Alpha2": "EG",
+    "Alpha3": "EGY",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+    "Currency": "EGP",
+    "PhoneCode": "+20",
+    "TimeZone": "UTC+2[c] (EGY)",
+    "Code": 818,
+    "Name": {
+      "en": "Egypt",
+      "pl": "Egipt",
+      "ru": "Египет",
+      "uk": "Єгипет"
+    }
+  },
+  {
+    "Alpha2": "GB",
+    "Alpha3": "GBR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+    "Currency": "GBP",
+    "PhoneCode": "+44[note 8]",
+    "TimeZone": "UTC  (Greenwich Mean Time, WET)",
+    "Code": 826,
+    "Name": {
+      "en": "United Kingdom of Great Britain and Northern Ireland",
+      "pl": "Wielka Brytania",
+      "ru": "Великобритания",
+      "uk": "Велика Британія"
+    }
+  },
+  {
+    "Alpha2": "GG",
+    "Alpha3": "GGY",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Guernsey.svg",
+    "Currency": "GBP",
+    "PhoneCode": "+44",
+    "TimeZone": "UTC±00:00 (GMT)",
+    "Code": 831,
+    "Name": {
+      "en": "Guernsey",
+      "pl": "Guernsey",
+      "ru": "Гернси",
+      "uk": "Гернсі"
+    }
+  },
+  {
+    "Alpha2": "JE",
+    "Alpha3": "JEY",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/1/1c/Flag_of_Jersey.svg",
+    "Currency": "GBP",
+    "PhoneCode": "+44",
+    "TimeZone": "UTC±00:00 (GMT)",
+    "Code": 832,
+    "Name": {
+      "en": "Jersey",
+      "pl": "Jersey",
+      "ru": "Джерси (остров)",
+      "uk": "Джерсі"
+    }
+  },
+  {
+    "Alpha2": "IM",
+    "Alpha3": "IMN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_Isle_of_Man.svg",
+    "Currency": "GBP",
+    "PhoneCode": "+44",
+    "TimeZone": "UTC±00:00 (GMT)",
+    "Code": 833,
+    "Name": {
+      "en": "Isle of Man",
+      "pl": "Wyspa Man",
+      "ru": "Остров Мэн",
+      "uk": "Острів Мен"
+    }
+  },
+  {
+    "Alpha2": "TZ",
+    "Alpha3": "TZA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+    "Currency": "TZS",
+    "PhoneCode": "+255[note 1]",
+    "TimeZone": "UTC+3 (EAT)",
+    "Code": 834,
+    "Name": {
+      "en": "Tanzania, United Republic of",
+      "pl": "Tanzania",
+      "ru": "Танзания",
+      "uk": "Танзанія"
+    }
+  },
+  {
+    "Alpha2": "US",
+    "Alpha3": "USA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+    "Currency": "USD",
+    "PhoneCode": "+1",
+    "TimeZone": "UTC−4 to −12, +10, +11",
+    "Code": 840,
+    "Name": {
+      "en": "United States of America",
+      "pl": "Stany Zjednoczone",
+      "ru": "Соединённые Штаты Америки",
+      "uk": "Сполучені Штати Америки"
+    }
+  },
+  {
+    "Alpha2": "VI",
+    "Alpha3": "VIR",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_the_United_States_Virgin_Islands.svg",
+    "Currency": "USD",
+    "PhoneCode": "+1–340",
+    "TimeZone": "UTC−4:00 (AST)",
+    "Code": 850,
+    "Name": {
+      "en": "Virgin Islands (U.S.)",
+      "pl": "Wyspy Dziewicze Stanów Zjednoczonych",
+      "ru": "Виргинские Острова (США)",
+      "uk": "Американські Віргінські Острови"
+    }
+  },
+  {
+    "Alpha2": "BF",
+    "Alpha3": "BFA",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+    "Currency": "XOF",
+    "PhoneCode": "+226",
+    "TimeZone": "UTC  (GMT)",
+    "Code": 854,
+    "Name": {
+      "en": "Burkina Faso",
+      "pl": "Burkina Faso",
+      "ru": "Буркина-Фасо",
+      "uk": "Буркіна-Фасо"
+    }
+  },
+  {
+    "Alpha2": "UY",
+    "Alpha3": "URY",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+    "Currency": "UYU",
+    "PhoneCode": "+598",
+    "TimeZone": "UTC−3 (UYT)",
+    "Code": 858,
+    "Name": {
+      "en": "Uruguay",
+      "pl": "Urugwaj",
+      "ru": "Уругвай",
+      "uk": "Уругвай"
+    }
+  },
+  {
+    "Alpha2": "UZ",
+    "Alpha3": "UZB",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
+    "Currency": "UZS",
+    "PhoneCode": "+998",
+    "TimeZone": "UTC+5 (UZT)",
+    "Code": 860,
+    "Name": {
+      "en": "Uzbekistan",
+      "pl": "Uzbekistan",
+      "ru": "Узбекистан",
+      "uk": "Узбекистан"
+    }
+  },
+  {
+    "Alpha2": "VE",
+    "Alpha3": "VEN",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
+    "Currency": "VES",
+    "PhoneCode": "+58",
+    "TimeZone": "UTC−4 (VET)",
+    "Code": 862,
+    "Name": {
+      "en": "Venezuela (Bolivarian Republic of)",
+      "pl": "Wenezuela",
+      "ru": "Венесуэла",
+      "uk": "Венесуела"
+    }
+  },
+  {
+    "Alpha2": "WF",
+    "Alpha3": "WLF",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "Currency": "XPF",
+    "PhoneCode": "+681",
+    "TimeZone": "UTC+12:00",
+    "Code": 876,
+    "Name": {
+      "en": "Wallis and Futuna",
+      "pl": "Wallis i Futuna",
+      "ru": "Уоллис и Футуна",
+      "uk": "Волліс і Футуна"
+    }
+  },
+  {
+    "Alpha2": "WS",
+    "Alpha3": "WSM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg",
+    "Currency": "WST",
+    "PhoneCode": "+685",
+    "TimeZone": "UTC+13c (WST)",
+    "Code": 882,
+    "Name": {
+      "en": "Samoa",
+      "pl": "Samoa",
+      "ru": "Самоа",
+      "uk": "Самоа"
+    }
+  },
+  {
+    "Alpha2": "YE",
+    "Alpha3": "YEM",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+    "Currency": "YER",
+    "PhoneCode": "+967",
+    "TimeZone": "UTC+3 (AST)",
+    "Code": 887,
+    "Name": {
+      "en": "Yemen",
+      "pl": "Jemen",
+      "ru": "Йемен",
+      "uk": "Ємен"
+    }
+  },
+  {
+    "Alpha2": "ZM",
+    "Alpha3": "ZMB",
+    "FlagUrl": "//upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
+    "Currency": "ZMW",
+    "PhoneCode": "+260",
+    "TimeZone": "UTC+2 (CAT)",
+    "Code": 894,
+    "Name": {
+      "en": "Zambia",
+      "pl": "Zambia",
+      "ru": "Замбия",
+      "uk": "Замбія"
+    }
+  }
+]

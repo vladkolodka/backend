@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <Product>Menchul MCode API vNext</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Convey" Version="0.5.*" />
+    <PackageReference Include="Convey.WebApi" Version="0.5.*" />
+    <PackageReference Include="Convey.WebApi.CQRS" Version="0.5.*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Menchul\Menchul.Convey\Menchul.Convey.csproj" />
+    <ProjectReference Include="..\Menchul.MCode.Infrastructure\Menchul.MCode.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

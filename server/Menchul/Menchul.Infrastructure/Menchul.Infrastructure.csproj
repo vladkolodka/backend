@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Product>Menchul Base Library</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Convey.Logging.CQRS" Version="0.5.477" />
+    <PackageReference Include="Convey.Tracing.Jaeger" Version="0.5.*" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Menchul.Application\Menchul.Application.csproj" />
+  </ItemGroup>
+</Project>

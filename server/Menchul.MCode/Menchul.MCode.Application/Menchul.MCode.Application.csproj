@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Product>Menchul MCode Library</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.1.0" />
+    <PackageReference Include="Convey" Version="0.5.*" />
+    <PackageReference Include="Convey.CQRS.Commands" Version="0.5.*" />
+    <PackageReference Include="Convey.CQRS.Events" Version="0.5.*" />
+    <PackageReference Include="Convey.CQRS.Queries" Version="0.5.*" />
+    <PackageReference Include="Convey.MessageBrokers" Version="0.5.*" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Menchul\Menchul.Application\Menchul.Application.csproj" />
+    <ProjectReference Include="..\..\Menchul\Menchul.Convey\Menchul.Convey.csproj" />
+    <ProjectReference Include="..\Menchul.MCode.Core\Menchul.MCode.Core.csproj" />
+    <ProjectReference Include="..\..\Menchul\Menchul.Resources\Menchul.Resources.csproj" />
+  </ItemGroup>
+</Project>

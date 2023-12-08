@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Product>Menchul Base Library</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Convey.WebApi" Version="0.5.*" />
+    <PackageReference Include="Convey.WebApi.CQRS" Version="0.5.*" />
+  </ItemGroup>
+</Project>
